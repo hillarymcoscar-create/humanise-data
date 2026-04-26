@@ -1,0 +1,2183 @@
+{
+  "version": "1.0",
+  "description": "NZ job title alias mapping — common input variants to canonical O*NET titles and codes. Covers NZ-specific slang (sparky, chippie), ANZSCO-aligned categories, and Māori/Pacific workforce titles.",
+  "total_entries": 155,
+  "aliases": [
+    {
+      "input_variants": [
+        "cleaner",
+        "house cleaner",
+        "domestic cleaner",
+        "cleaning lady",
+        "housekeeper",
+        "home cleaner",
+        "residential cleaner",
+        "domestic worker"
+      ],
+      "onet_title": "Maids and Housekeeping Cleaners",
+      "onet_code": "37-2012.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "commercial cleaner",
+        "office cleaner",
+        "janitor",
+        "caretaker",
+        "building cleaner",
+        "school cleaner",
+        "industrial cleaner",
+        "window cleaner",
+        "facility cleaner"
+      ],
+      "onet_title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "onet_code": "37-2011.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "builder",
+        "construction worker",
+        "building labourer",
+        "labourer",
+        "site worker",
+        "concreter",
+        "concrete layer",
+        "general labourer",
+        "building contractor"
+      ],
+      "onet_title": "Construction Laborers",
+      "onet_code": "47-2061.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "electrician",
+        "electrical tradesperson",
+        "sparky",
+        "spark",
+        "licensed electrician",
+        "electrical apprentice",
+        "linesperson",
+        "lines person",
+        "electrical installer"
+      ],
+      "onet_title": "Electricians",
+      "onet_code": "47-2111.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "plumber",
+        "gasfitter",
+        "drainlayer",
+        "drain layer",
+        "plumber gasfitter",
+        "plumbing tradesperson",
+        "sanitary plumber"
+      ],
+      "onet_title": "Plumbers, Pipefitters, and Steamfitters",
+      "onet_code": "47-2152.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "painter",
+        "house painter",
+        "painter decorator",
+        "painting contractor",
+        "decorator",
+        "plasterer",
+        "solid plasterer",
+        "stucco plasterer"
+      ],
+      "onet_title": "Painters, Construction and Maintenance",
+      "onet_code": "47-2141.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "carpenter",
+        "chippie",
+        "chippy",
+        "joiner",
+        "cabinetmaker",
+        "cabinet maker",
+        "woodworker",
+        "framer",
+        "formwork carpenter",
+        "rough carpenter"
+      ],
+      "onet_title": "Carpenters",
+      "onet_code": "47-2031.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "roofer",
+        "roofing contractor",
+        "roof tiler",
+        "roof plumber",
+        "roofing tradesperson",
+        "roofing installer"
+      ],
+      "onet_title": "Roofers",
+      "onet_code": "47-2181.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "tiler",
+        "floor tiler",
+        "wall tiler",
+        "tile layer",
+        "floor layer",
+        "floor installer",
+        "ceramic tiler"
+      ],
+      "onet_title": "Tile and Stone Setters",
+      "onet_code": "47-2044.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "bricklayer",
+        "blocklayer",
+        "mason",
+        "brick layer",
+        "stonemason",
+        "stone mason",
+        "blockie"
+      ],
+      "onet_title": "Brickmasons and Blockmasons",
+      "onet_code": "47-2021.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "welder",
+        "boilermaker",
+        "fabricator",
+        "structural welder",
+        "coded welder",
+        "welding engineer",
+        "metalworker"
+      ],
+      "onet_title": "Welders, Cutters, Solderers, and Brazers",
+      "onet_code": "51-4121.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "scaffolder",
+        "scaffold erector",
+        "rigger",
+        "steelworker",
+        "structural steel worker",
+        "ironworker",
+        "scaffolding contractor"
+      ],
+      "onet_title": "Structural Iron and Steel Workers",
+      "onet_code": "47-2221.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "mechanic",
+        "auto mechanic",
+        "motor mechanic",
+        "automotive technician",
+        "vehicle technician",
+        "car mechanic",
+        "diesel mechanic",
+        "heavy vehicle mechanic",
+        "HV mechanic"
+      ],
+      "onet_title": "Automotive Service Technicians and Mechanics",
+      "onet_code": "49-3023.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "landscaper",
+        "landscape gardener",
+        "groundskeeper",
+        "grounds person",
+        "groundsperson",
+        "horticulturalist",
+        "arborist",
+        "tree surgeon",
+        "tree climber",
+        "greenkeeper",
+        "green keeper"
+      ],
+      "onet_title": "Landscaping and Groundskeeping Workers",
+      "onet_code": "37-3011.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "truck driver",
+        "truck operator",
+        "heavy truck driver",
+        "class 5 driver",
+        "HT driver",
+        "semi driver",
+        "transport driver",
+        "long haul driver",
+        "tanker driver",
+        "curtainsider driver"
+      ],
+      "onet_title": "Heavy and Tractor-Trailer Truck Drivers",
+      "onet_code": "53-3032.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "bus driver",
+        "coach driver",
+        "public transport driver",
+        "school bus driver",
+        "transit driver"
+      ],
+      "onet_title": "Bus Drivers, Transit and Intercity",
+      "onet_code": "53-3052.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "forklift driver",
+        "forklift operator",
+        "stacker driver",
+        "reach truck operator",
+        "order picker",
+        "counterbalance operator"
+      ],
+      "onet_title": "Industrial Truck and Tractor Operators",
+      "onet_code": "53-7051.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "warehouse worker",
+        "storeman",
+        "stores person",
+        "goods inward operator",
+        "despatch operator",
+        "pick packer",
+        "distribution worker",
+        "picker packer"
+      ],
+      "onet_title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "onet_code": "53-7062.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "factory worker",
+        "production worker",
+        "manufacturing worker",
+        "assembly worker",
+        "process worker",
+        "line worker",
+        "production operator",
+        "wharfie",
+        "stevedore"
+      ],
+      "onet_title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "onet_code": "53-7062.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "digger driver",
+        "excavator operator",
+        "earthmoving operator",
+        "grader operator",
+        "bulldozer operator",
+        "crane operator",
+        "plant operator",
+        "construction plant operator"
+      ],
+      "onet_title": "Construction Laborers",
+      "onet_code": "47-2061.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "driver",
+        "delivery driver",
+        "courier driver",
+        "van driver",
+        "light truck driver",
+        "taxi driver",
+        "rideshare driver",
+        "shuttle driver"
+      ],
+      "onet_title": "Heavy and Tractor-Trailer Truck Drivers",
+      "onet_code": "53-3032.00",
+      "category": "trades_physical"
+    },
+    {
+      "input_variants": [
+        "nurse",
+        "registered nurse",
+        "RN",
+        "staff nurse",
+        "ward nurse",
+        "hospital nurse",
+        "community nurse",
+        "district nurse",
+        "practice nurse",
+        "enrolled nurse",
+        "EN"
+      ],
+      "onet_title": "Registered Nurses",
+      "onet_code": "29-1141.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "doctor",
+        "GP",
+        "general practitioner",
+        "physician",
+        "medical officer",
+        "medical doctor",
+        "general doctor",
+        "family doctor",
+        "primary care doctor"
+      ],
+      "onet_title": "Family Medicine Physicians",
+      "onet_code": "29-1215.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "specialist doctor",
+        "consultant doctor",
+        "registrar",
+        "house officer",
+        "junior doctor",
+        "senior medical officer",
+        "SMO",
+        "medical specialist"
+      ],
+      "onet_title": "Physicians, All Other",
+      "onet_code": "29-1229.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "physio",
+        "physiotherapist",
+        "physiotherapy",
+        "physical therapist",
+        "rehab therapist",
+        "sports physio",
+        "musculoskeletal physio"
+      ],
+      "onet_title": "Physical Therapists",
+      "onet_code": "29-1123.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "occupational therapist",
+        "OT",
+        "occupational therapy",
+        "hand therapist"
+      ],
+      "onet_title": "Occupational Therapists",
+      "onet_code": "29-1122.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "speech-language therapist",
+        "SLT",
+        "speech therapist",
+        "speech pathologist",
+        "language therapist",
+        "communication therapist"
+      ],
+      "onet_title": "Speech-Language Pathologists",
+      "onet_code": "29-1127.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "psychologist",
+        "clinical psychologist",
+        "counselling psychologist",
+        "registered psychologist",
+        "forensic psychologist"
+      ],
+      "onet_title": "Clinical and Counseling Psychologists",
+      "onet_code": "19-3033.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "mental health counsellor",
+        "counsellor",
+        "therapist",
+        "psychotherapist",
+        "clinical counsellor",
+        "addiction counsellor",
+        "relationship counsellor",
+        "counselor"
+      ],
+      "onet_title": "Mental Health Counselors",
+      "onet_code": "21-1014.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "pharmacist",
+        "chemist",
+        "dispensing pharmacist",
+        "clinical pharmacist",
+        "hospital pharmacist"
+      ],
+      "onet_title": "Pharmacists",
+      "onet_code": "29-1051.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "dentist",
+        "dental surgeon",
+        "general dentist",
+        "cosmetic dentist"
+      ],
+      "onet_title": "Dentists, General",
+      "onet_code": "29-1021.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "dental assistant",
+        "dental nurse",
+        "dental receptionist"
+      ],
+      "onet_title": "Dental Assistants",
+      "onet_code": "31-9091.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "dental hygienist",
+        "dental therapist",
+        "oral health therapist",
+        "orthodontic therapist"
+      ],
+      "onet_title": "Dental Hygienists",
+      "onet_code": "29-1292.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "midwife",
+        "LMC midwife",
+        "independent midwife",
+        "core midwife",
+        "community midwife",
+        "primary maternity carer"
+      ],
+      "onet_title": "Nurse Midwives",
+      "onet_code": "29-1161.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "paramedic",
+        "ambulance officer",
+        "ambulance paramedic",
+        "intensive care paramedic",
+        "EMT",
+        "emergency medical technician",
+        "first responder"
+      ],
+      "onet_title": "Emergency Medical Technicians",
+      "onet_code": "29-2042.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "aged care worker",
+        "rest home worker",
+        "rest home carer",
+        "aged residential care worker",
+        "care assistant",
+        "hospital aide",
+        "healthcare assistant",
+        "HCA"
+      ],
+      "onet_title": "Nursing Assistants",
+      "onet_code": "31-1131.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "care worker",
+        "home support worker",
+        "home carer",
+        "in-home carer",
+        "community support worker",
+        "homecare worker"
+      ],
+      "onet_title": "Home Health Aides",
+      "onet_code": "31-1121.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "disability support worker",
+        "DSW",
+        "support worker",
+        "support person",
+        "residential support worker"
+      ],
+      "onet_title": "Personal Care Aides",
+      "onet_code": "31-1122.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "social worker",
+        "child protection social worker",
+        "family social worker",
+        "mental health social worker",
+        "hospital social worker",
+        "Oranga Tamariki social worker"
+      ],
+      "onet_title": "Child, Family, and School Social Workers",
+      "onet_code": "21-1021.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "vet",
+        "veterinarian",
+        "veterinary surgeon",
+        "small animal vet",
+        "large animal vet",
+        "farm vet"
+      ],
+      "onet_title": "Veterinarians",
+      "onet_code": "29-1131.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "vet nurse",
+        "veterinary nurse",
+        "vet tech",
+        "veterinary technician",
+        "animal nurse"
+      ],
+      "onet_title": "Veterinary Technologists and Technicians",
+      "onet_code": "29-2056.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "radiographer",
+        "diagnostic radiographer",
+        "MRI technologist",
+        "CT technologist",
+        "medical imaging technologist",
+        "sonographer",
+        "medical imaging specialist"
+      ],
+      "onet_title": "Radiologic Technologists and Technicians",
+      "onet_code": "29-2034.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "lab technician",
+        "laboratory technician",
+        "medical laboratory technician",
+        "science technician",
+        "pathology technician"
+      ],
+      "onet_title": "Medical and Clinical Laboratory Technicians",
+      "onet_code": "29-2012.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "optician",
+        "dispensing optician",
+        "optical technician",
+        "optometrist"
+      ],
+      "onet_title": "Opticians, Dispensing",
+      "onet_code": "29-2081.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "graphic designer",
+        "visual designer",
+        "graphic artist",
+        "brand designer",
+        "print designer",
+        "layout designer",
+        "publication designer",
+        "production artist"
+      ],
+      "onet_title": "Graphic Designers",
+      "onet_code": "27-1024.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "UX designer",
+        "UI designer",
+        "UX/UI designer",
+        "user experience designer",
+        "product designer",
+        "interaction designer",
+        "digital designer",
+        "web designer"
+      ],
+      "onet_title": "Graphic Designers",
+      "onet_code": "27-1024.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "art director",
+        "creative director",
+        "head of design",
+        "design director",
+        "ECD",
+        "executive creative director",
+        "chief creative officer",
+        "CCO"
+      ],
+      "onet_title": "Art Directors",
+      "onet_code": "27-1011.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "photographer",
+        "commercial photographer",
+        "portrait photographer",
+        "wedding photographer",
+        "event photographer",
+        "photojournalist",
+        "product photographer",
+        "editorial photographer"
+      ],
+      "onet_title": "Photographers",
+      "onet_code": "27-4021.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "videographer",
+        "video editor",
+        "video producer",
+        "filmmaker",
+        "video content creator",
+        "film editor",
+        "documentary filmmaker",
+        "content creator (video)"
+      ],
+      "onet_title": "Film and Video Editors",
+      "onet_code": "27-4032.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "animator",
+        "motion designer",
+        "motion graphic artist",
+        "2D animator",
+        "3D animator",
+        "visual effects artist",
+        "VFX artist",
+        "CGI artist",
+        "motion graphics"
+      ],
+      "onet_title": "Special Effects Artists and Animators",
+      "onet_code": "27-1014.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "illustrator",
+        "digital illustrator",
+        "concept artist",
+        "character artist",
+        "comic artist",
+        "graphic illustrator",
+        "fashion illustrator"
+      ],
+      "onet_title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "onet_code": "27-1013.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "copywriter",
+        "content writer",
+        "marketing writer",
+        "digital copywriter",
+        "advertising copywriter",
+        "social media copywriter",
+        "content creator (text)",
+        "brand writer"
+      ],
+      "onet_title": "Writers and Authors",
+      "onet_code": "27-3043.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "writer",
+        "author",
+        "blogger",
+        "freelance writer",
+        "content strategist",
+        "scriptwriter",
+        "screenwriter",
+        "creative writer"
+      ],
+      "onet_title": "Writers and Authors",
+      "onet_code": "27-3043.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "technical writer",
+        "technical author",
+        "technical documentation writer",
+        "documentation specialist",
+        "technical communicator"
+      ],
+      "onet_title": "Technical Writers",
+      "onet_code": "27-3042.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "journalist",
+        "reporter",
+        "news reporter",
+        "newspaper journalist",
+        "broadcast journalist",
+        "online journalist",
+        "senior journalist",
+        "investigative journalist",
+        "radio journalist"
+      ],
+      "onet_title": "News Analysts, Reporters, and Journalists",
+      "onet_code": "27-3023.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "editor",
+        "sub-editor",
+        "subeditor",
+        "copy editor",
+        "managing editor",
+        "features editor",
+        "news editor",
+        "digital editor",
+        "content editor",
+        "commissioning editor"
+      ],
+      "onet_title": "Editors",
+      "onet_code": "27-3041.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "musician",
+        "singer",
+        "vocalist",
+        "performer",
+        "session musician",
+        "recording artist",
+        "live musician",
+        "band member"
+      ],
+      "onet_title": "Musicians and Singers",
+      "onet_code": "27-2042.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "music director",
+        "conductor",
+        "music composer",
+        "composer",
+        "arranger",
+        "music producer",
+        "record producer",
+        "beatmaker",
+        "sound designer"
+      ],
+      "onet_title": "Music Directors and Composers",
+      "onet_code": "27-2041.00",
+      "category": "creative"
+    },
+    {
+      "input_variants": [
+        "software developer",
+        "developer",
+        "software engineer",
+        "app developer",
+        "mobile developer",
+        "back-end developer",
+        "full-stack developer",
+        "full stack developer"
+      ],
+      "onet_title": "Software Developers",
+      "onet_code": "15-1252.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "programmer",
+        "coder",
+        "computer programmer",
+        "front-end programmer",
+        "junior developer",
+        "graduate developer"
+      ],
+      "onet_title": "Computer Programmers",
+      "onet_code": "15-1251.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "web developer",
+        "front-end developer",
+        "frontend developer",
+        "frontend engineer",
+        "React developer",
+        "JavaScript developer",
+        "WordPress developer",
+        "Shopify developer"
+      ],
+      "onet_title": "Web Developers",
+      "onet_code": "15-1254.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "IT support",
+        "IT helpdesk",
+        "helpdesk",
+        "help desk",
+        "IT technician",
+        "desktop support",
+        "technical support",
+        "IT coordinator",
+        "systems support",
+        "tech support"
+      ],
+      "onet_title": "Computer User Support Specialists",
+      "onet_code": "15-1232.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "data analyst",
+        "analytics analyst",
+        "reporting analyst",
+        "insights analyst",
+        "BI analyst",
+        "business analyst (data)",
+        "data and insights analyst"
+      ],
+      "onet_title": "Business Intelligence Analysts",
+      "onet_code": "15-2051.01",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "data scientist",
+        "machine learning engineer",
+        "ML engineer",
+        "AI engineer",
+        "data science practitioner",
+        "senior data scientist"
+      ],
+      "onet_title": "Data Scientists",
+      "onet_code": "15-2051.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "data engineer",
+        "ETL developer",
+        "data platform engineer",
+        "analytics engineer",
+        "data infrastructure engineer"
+      ],
+      "onet_title": "Software Developers",
+      "onet_code": "15-1252.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "cybersecurity analyst",
+        "security analyst",
+        "security engineer",
+        "pen tester",
+        "penetration tester",
+        "cyber analyst",
+        "infosec analyst",
+        "cybersecurity specialist",
+        "SOC analyst"
+      ],
+      "onet_title": "Information Security Analysts",
+      "onet_code": "15-1212.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "network engineer",
+        "network administrator",
+        "network admin",
+        "systems administrator",
+        "systems admin",
+        "sysadmin",
+        "cloud engineer",
+        "infrastructure engineer"
+      ],
+      "onet_title": "Network and Computer Systems Administrators",
+      "onet_code": "15-1244.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "cloud architect",
+        "solutions architect",
+        "enterprise architect",
+        "IT architect",
+        "network architect",
+        "infrastructure architect"
+      ],
+      "onet_title": "Computer Network Architects",
+      "onet_code": "15-1241.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "database administrator",
+        "DBA",
+        "database engineer",
+        "SQL developer",
+        "database manager"
+      ],
+      "onet_title": "Database Administrators",
+      "onet_code": "15-1242.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "product manager",
+        "product owner",
+        "PO",
+        "senior product manager",
+        "digital product manager",
+        "head of product"
+      ],
+      "onet_title": "Computer and Information Systems Managers",
+      "onet_code": "11-3021.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "DevOps engineer",
+        "DevOps",
+        "site reliability engineer",
+        "SRE",
+        "platform engineer",
+        "release engineer",
+        "CI/CD engineer"
+      ],
+      "onet_title": "Network and Computer Systems Administrators",
+      "onet_code": "15-1244.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "IT business analyst",
+        "business systems analyst",
+        "systems analyst",
+        "ICT business analyst",
+        "technology business analyst",
+        "BA (IT)"
+      ],
+      "onet_title": "Computer Systems Analysts",
+      "onet_code": "15-1211.00",
+      "category": "tech"
+    },
+    {
+      "input_variants": [
+        "marketer",
+        "marketing specialist",
+        "marketing executive",
+        "marketing coordinator",
+        "growth marketer",
+        "performance marketer"
+      ],
+      "onet_title": "Market Research Analysts and Marketing Specialists",
+      "onet_code": "13-1161.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "marketing manager",
+        "head of marketing",
+        "marketing director",
+        "GM marketing",
+        "VP marketing",
+        "CMO",
+        "chief marketing officer"
+      ],
+      "onet_title": "Marketing Managers",
+      "onet_code": "11-2021.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "digital marketer",
+        "digital marketing specialist",
+        "digital marketing manager",
+        "online marketer",
+        "performance marketing manager"
+      ],
+      "onet_title": "Marketing Managers",
+      "onet_code": "11-2021.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "social media manager",
+        "social media specialist",
+        "social media coordinator",
+        "community manager",
+        "social media strategist"
+      ],
+      "onet_title": "Marketing Managers",
+      "onet_code": "11-2021.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "brand manager",
+        "brand strategist",
+        "brand executive",
+        "senior brand manager"
+      ],
+      "onet_title": "Marketing Managers",
+      "onet_code": "11-2021.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "SEO specialist",
+        "SEO manager",
+        "SEO analyst",
+        "search engine optimisation specialist",
+        "organic search specialist"
+      ],
+      "onet_title": "Market Research Analysts and Marketing Specialists",
+      "onet_code": "13-1161.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "Google Ads specialist",
+        "paid ads specialist",
+        "paid search specialist",
+        "PPC specialist",
+        "SEM specialist",
+        "media buyer",
+        "programmatic buyer",
+        "biddable media"
+      ],
+      "onet_title": "Advertising and Promotions Managers",
+      "onet_code": "11-2011.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "PR",
+        "public relations manager",
+        "PR manager",
+        "communications manager",
+        "public affairs manager",
+        "media relations manager",
+        "comms manager",
+        "PR specialist"
+      ],
+      "onet_title": "Public Relations Specialists",
+      "onet_code": "27-3031.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "account manager",
+        "client manager",
+        "account director",
+        "client services manager",
+        "account executive",
+        "client relationship manager",
+        "key account manager"
+      ],
+      "onet_title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+      "onet_code": "41-3091.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "sales rep",
+        "sales representative",
+        "sales executive",
+        "sales consultant",
+        "sales person",
+        "salesperson",
+        "field sales",
+        "territory manager"
+      ],
+      "onet_title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+      "onet_code": "41-3091.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "business development manager",
+        "BDM",
+        "business development executive",
+        "new business manager",
+        "sales development rep",
+        "SDR",
+        "growth manager"
+      ],
+      "onet_title": "Sales Managers",
+      "onet_code": "11-2022.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "events manager",
+        "event coordinator",
+        "event planner",
+        "conference manager",
+        "events coordinator",
+        "functions manager",
+        "meeting planner"
+      ],
+      "onet_title": "Meeting, Convention, and Event Planners",
+      "onet_code": "13-1121.00",
+      "category": "marketing_business"
+    },
+    {
+      "input_variants": [
+        "accountant",
+        "chartered accountant",
+        "CA",
+        "CPA",
+        "tax accountant",
+        "management accountant",
+        "financial accountant",
+        "audit accountant"
+      ],
+      "onet_title": "Accountants and Auditors",
+      "onet_code": "13-2011.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "bookkeeper",
+        "accounts assistant",
+        "accounts payable officer",
+        "accounts receivable officer",
+        "accounts payable",
+        "accounts receivable",
+        "accounts clerk"
+      ],
+      "onet_title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "onet_code": "43-3031.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "payroll officer",
+        "payroll manager",
+        "payroll administrator",
+        "payroll specialist",
+        "payroll coordinator",
+        "payroll clerk"
+      ],
+      "onet_title": "Payroll and Timekeeping Clerks",
+      "onet_code": "43-3051.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "administrator",
+        "admin",
+        "admin officer",
+        "administration officer",
+        "administration assistant",
+        "admin assistant",
+        "office administrator"
+      ],
+      "onet_title": "Office Clerks, General",
+      "onet_code": "43-9061.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "receptionist",
+        "front of house (office)",
+        "front desk (office)",
+        "office receptionist",
+        "medical receptionist",
+        "dental receptionist",
+        "reception"
+      ],
+      "onet_title": "Receptionists and Information Clerks",
+      "onet_code": "43-4171.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "office manager",
+        "practice manager",
+        "business manager",
+        "operations coordinator (admin)"
+      ],
+      "onet_title": "Administrative Services Managers",
+      "onet_code": "11-3012.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "EA",
+        "executive assistant",
+        "PA",
+        "personal assistant",
+        "executive PA",
+        "C-suite assistant",
+        "board secretary",
+        "company secretary",
+        "executive support"
+      ],
+      "onet_title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "onet_code": "43-6014.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "data entry",
+        "data entry operator",
+        "data entry officer",
+        "data entry clerk",
+        "data processor"
+      ],
+      "onet_title": "Data Entry Keyers",
+      "onet_code": "43-9021.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "financial advisor",
+        "financial planner",
+        "financial adviser",
+        "investment advisor",
+        "wealth manager",
+        "IFA",
+        "independent financial advisor"
+      ],
+      "onet_title": "Personal Financial Advisors",
+      "onet_code": "13-2052.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "financial analyst",
+        "investment analyst",
+        "equity analyst",
+        "credit analyst",
+        "fixed income analyst"
+      ],
+      "onet_title": "Financial and Investment Analysts",
+      "onet_code": "15-2051.01",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "financial controller",
+        "finance manager",
+        "CFO",
+        "chief financial officer",
+        "head of finance",
+        "financial director",
+        "group accountant"
+      ],
+      "onet_title": "Financial Managers",
+      "onet_code": "11-3031.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "insurance agent",
+        "insurance broker",
+        "insurance adviser",
+        "insurance consultant",
+        "risk adviser",
+        "life insurance agent"
+      ],
+      "onet_title": "Insurance Sales Agents",
+      "onet_code": "41-3021.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "compliance officer",
+        "compliance manager",
+        "risk and compliance officer",
+        "AML officer",
+        "anti-money laundering officer",
+        "regulatory compliance officer"
+      ],
+      "onet_title": "Compliance Officers",
+      "onet_code": "13-1041.00",
+      "category": "finance_admin"
+    },
+    {
+      "input_variants": [
+        "primary teacher",
+        "primary school teacher",
+        "Year 1 teacher",
+        "Year 2 teacher",
+        "Year 3 teacher",
+        "Year 4 teacher",
+        "Year 5 teacher",
+        "Year 6 teacher",
+        "junior school teacher",
+        "kura teacher"
+      ],
+      "onet_title": "Elementary School Teachers, Except Special Education",
+      "onet_code": "25-2021.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "secondary teacher",
+        "high school teacher",
+        "college teacher",
+        "secondary school teacher",
+        "Year 9 teacher",
+        "Year 10 teacher",
+        "Year 11 teacher",
+        "Year 12 teacher",
+        "Year 13 teacher"
+      ],
+      "onet_title": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "onet_code": "25-2031.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "teacher",
+        "classroom teacher",
+        "school teacher",
+        "NQT",
+        "beginning teacher",
+        "intermediate teacher"
+      ],
+      "onet_title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "onet_code": "25-2022.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "lecturer",
+        "university lecturer",
+        "senior lecturer",
+        "associate professor",
+        "professor",
+        "academic",
+        "polytech tutor",
+        "wananga lecturer",
+        "polytechnic lecturer"
+      ],
+      "onet_title": "Postsecondary Teachers, All Other",
+      "onet_code": "25-1199.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "tutor",
+        "private tutor",
+        "academic tutor",
+        "literacy tutor",
+        "numeracy tutor",
+        "subject tutor"
+      ],
+      "onet_title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "onet_code": "25-9042.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "teacher aide",
+        "teachers aide",
+        "learning support assistant",
+        "teacher assistant",
+        "teaching assistant",
+        "classroom aide",
+        "SENCO aide",
+        "special needs aide"
+      ],
+      "onet_title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "onet_code": "25-9042.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "principal",
+        "school principal",
+        "deputy principal",
+        "DP",
+        "associate principal",
+        "head teacher",
+        "head of school",
+        "tumuaki"
+      ],
+      "onet_title": "Education Administrators, Kindergarten through Secondary",
+      "onet_code": "11-9032.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "early childhood teacher",
+        "ECE teacher",
+        "kindergarten teacher",
+        "kindy teacher",
+        "preschool teacher",
+        "playcentre teacher",
+        "creche teacher",
+        "kohanga reo teacher"
+      ],
+      "onet_title": "Preschool Teachers, Except Special Education",
+      "onet_code": "25-2011.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "training manager",
+        "L&D manager",
+        "learning and development manager",
+        "head of L&D",
+        "training coordinator",
+        "organisational development manager"
+      ],
+      "onet_title": "Training and Development Managers",
+      "onet_code": "11-3131.00",
+      "category": "education"
+    },
+    {
+      "input_variants": [
+        "chef",
+        "head chef",
+        "executive chef",
+        "sous chef",
+        "commis chef",
+        "pastry chef",
+        "chef de partie",
+        "kitchen manager",
+        "head cook"
+      ],
+      "onet_title": "Chefs and Head Cooks",
+      "onet_code": "35-1011.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "cook",
+        "line cook",
+        "kitchen hand",
+        "kitchen assistant",
+        "short order cook",
+        "cafe cook",
+        "restaurant cook",
+        "prep cook"
+      ],
+      "onet_title": "Cooks, Restaurant",
+      "onet_code": "35-2014.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "barista",
+        "cafe worker",
+        "coffee maker",
+        "coffee specialist",
+        "espresso technician",
+        "cafe all-rounder"
+      ],
+      "onet_title": "Baristas",
+      "onet_code": "35-3023.01",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "waiter",
+        "waitress",
+        "food and beverage attendant",
+        "front of house staff",
+        "server",
+        "hospitality worker",
+        "restaurant attendant",
+        "FOH staff"
+      ],
+      "onet_title": "Waiters and Waitresses",
+      "onet_code": "35-3031.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "bartender",
+        "bar staff",
+        "bar person",
+        "bar manager",
+        "mixologist",
+        "barman",
+        "barmaid"
+      ],
+      "onet_title": "Bartenders",
+      "onet_code": "35-3011.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "retail assistant",
+        "retail sales assistant",
+        "shop assistant",
+        "retail worker",
+        "retail consultant",
+        "store assistant",
+        "sales assistant",
+        "checkout operator",
+        "checkout chick"
+      ],
+      "onet_title": "Retail Salespersons",
+      "onet_code": "41-2031.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "store manager",
+        "retail manager",
+        "shop manager",
+        "branch manager (retail)",
+        "floor manager",
+        "department manager (retail)"
+      ],
+      "onet_title": "First-Line Supervisors of Retail Sales Workers",
+      "onet_code": "41-1011.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "customer service",
+        "customer service representative",
+        "customer service agent",
+        "customer service officer",
+        "call centre agent",
+        "contact centre agent",
+        "customer support",
+        "helpdesk (customer)"
+      ],
+      "onet_title": "Customer Service Representatives",
+      "onet_code": "43-4051.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "hotel receptionist",
+        "front desk agent",
+        "guest services",
+        "hotel front desk",
+        "accommodation manager",
+        "motel manager",
+        "front office agent"
+      ],
+      "onet_title": "Hotel, Motel, and Resort Desk Clerks",
+      "onet_code": "43-4081.00",
+      "category": "hospitality_retail"
+    },
+    {
+      "input_variants": [
+        "lawyer",
+        "solicitor",
+        "attorney",
+        "legal counsel",
+        "in-house counsel",
+        "senior associate (law)",
+        "partner (law)",
+        "barrister and solicitor"
+      ],
+      "onet_title": "Lawyers",
+      "onet_code": "23-1011.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "barrister",
+        "KC",
+        "QC",
+        "King's Counsel",
+        "Queen's Counsel",
+        "trial lawyer",
+        "criminal barrister",
+        "civil barrister"
+      ],
+      "onet_title": "Lawyers",
+      "onet_code": "23-1011.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "paralegal",
+        "legal executive",
+        "legal secretary",
+        "legal assistant",
+        "legal support",
+        "conveyancing clerk",
+        "litigation support"
+      ],
+      "onet_title": "Paralegals and Legal Assistants",
+      "onet_code": "23-2011.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "HR manager",
+        "human resources manager",
+        "head of HR",
+        "HR director",
+        "HR business partner",
+        "HRBP",
+        "people and culture manager",
+        "P&C manager"
+      ],
+      "onet_title": "Human Resources Managers",
+      "onet_code": "11-3121.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "recruiter",
+        "talent acquisition",
+        "talent acquisition specialist",
+        "in-house recruiter",
+        "recruitment consultant",
+        "staffing consultant",
+        "HR coordinator"
+      ],
+      "onet_title": "Human Resources Specialists",
+      "onet_code": "13-1071.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "consultant",
+        "management consultant",
+        "strategy consultant",
+        "business consultant",
+        "change management consultant",
+        "advisory consultant"
+      ],
+      "onet_title": "Management Analysts",
+      "onet_code": "13-1111.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "project manager",
+        "PM",
+        "programme manager",
+        "delivery manager",
+        "project lead",
+        "project coordinator",
+        "project director",
+        "senior project manager"
+      ],
+      "onet_title": "Project Management Specialists",
+      "onet_code": "13-1082.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "architect",
+        "registered architect",
+        "project architect",
+        "graduate architect",
+        "architectural designer",
+        "senior architect"
+      ],
+      "onet_title": "Architects, Except Landscape and Naval",
+      "onet_code": "17-1011.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "landscape architect",
+        "landscape designer",
+        "urban designer",
+        "planning designer"
+      ],
+      "onet_title": "Landscape Architects",
+      "onet_code": "17-1012.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "civil engineer",
+        "structural engineer",
+        "geotechnical engineer",
+        "transport engineer",
+        "roading engineer",
+        "infrastructure engineer (civil)"
+      ],
+      "onet_title": "Civil Engineers",
+      "onet_code": "17-2051.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "electrical engineer",
+        "power systems engineer",
+        "electrical design engineer",
+        "controls engineer",
+        "electronics engineer"
+      ],
+      "onet_title": "Electrical Engineers",
+      "onet_code": "17-2071.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "mechanical engineer",
+        "manufacturing engineer",
+        "process engineer",
+        "design engineer",
+        "product development engineer",
+        "HVAC engineer"
+      ],
+      "onet_title": "Mechanical Engineers",
+      "onet_code": "17-2141.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "engineer",
+        "graduate engineer",
+        "professional engineer",
+        "CPEng",
+        "chartered engineer",
+        "general engineer"
+      ],
+      "onet_title": "Industrial Engineers",
+      "onet_code": "17-2112.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "urban planner",
+        "town planner",
+        "resource consent planner",
+        "planning consultant",
+        "district planner",
+        "resource management planner"
+      ],
+      "onet_title": "Urban and Regional Planners",
+      "onet_code": "19-3051.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "surveyor",
+        "registered surveyor",
+        "cadastral surveyor",
+        "licensed surveyor",
+        "quantity surveyor",
+        "QS",
+        "cost manager",
+        "cost planner",
+        "estimator"
+      ],
+      "onet_title": "Surveyors",
+      "onet_code": "17-1022.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "real estate agent",
+        "property agent",
+        "sales agent (property)",
+        "real estate salesperson",
+        "property consultant",
+        "realtor"
+      ],
+      "onet_title": "Real Estate Sales Agents",
+      "onet_code": "41-9022.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "property manager",
+        "rental property manager",
+        "residential property manager",
+        "commercial property manager",
+        "building manager",
+        "body corporate manager"
+      ],
+      "onet_title": "Property, Real Estate, and Community Association Managers",
+      "onet_code": "11-9141.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "health and safety officer",
+        "H&S officer",
+        "HSE officer",
+        "safety officer",
+        "health safety environment officer",
+        "H&S manager",
+        "HSE manager",
+        "site safety officer"
+      ],
+      "onet_title": "Occupational Health and Safety Specialists",
+      "onet_code": "19-5011.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "environmental consultant",
+        "environmental scientist",
+        "environmental engineer",
+        "ecologist",
+        "environmental planner",
+        "sustainability consultant"
+      ],
+      "onet_title": "Environmental Scientists and Specialists, Including Health",
+      "onet_code": "19-2041.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "quality manager",
+        "quality assurance manager",
+        "QA manager",
+        "quality engineer",
+        "quality systems manager",
+        "quality coordinator"
+      ],
+      "onet_title": "Quality Control Systems Managers",
+      "onet_code": "11-3051.01",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "supply chain manager",
+        "logistics manager",
+        "procurement manager",
+        "demand planner",
+        "inventory manager",
+        "warehouse manager",
+        "operations manager (supply chain)"
+      ],
+      "onet_title": "Supply Chain Managers",
+      "onet_code": "11-3071.04",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "hairdresser",
+        "hair stylist",
+        "barber",
+        "hair colourist",
+        "senior stylist",
+        "salon owner",
+        "hairstylist"
+      ],
+      "onet_title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "onet_code": "39-5012.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "beautician",
+        "beauty therapist",
+        "beauty technician",
+        "nail technician",
+        "skin therapist",
+        "aesthetician",
+        "facialist",
+        "lash technician",
+        "massage therapist"
+      ],
+      "onet_title": "Skincare Specialists",
+      "onet_code": "39-5094.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "personal trainer",
+        "PT",
+        "fitness trainer",
+        "gym instructor",
+        "group fitness instructor",
+        "strength coach",
+        "fitness coach"
+      ],
+      "onet_title": "Exercise Trainers and Group Fitness Instructors",
+      "onet_code": "39-9031.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "security guard",
+        "security officer",
+        "loss prevention officer",
+        "bouncer",
+        "door supervisor",
+        "security patrol officer",
+        "crowd controller",
+        "static guard"
+      ],
+      "onet_title": "Security Guards",
+      "onet_code": "33-9032.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "police officer",
+        "constable",
+        "detective",
+        "police sergeant",
+        "senior constable",
+        "NZ Police officer"
+      ],
+      "onet_title": "Police and Sheriff's Patrol Officers",
+      "onet_code": "33-3051.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "firefighter",
+        "fire officer",
+        "fire engineer",
+        "fire station officer",
+        "FENZ officer",
+        "fire investigator"
+      ],
+      "onet_title": "Firefighters",
+      "onet_code": "33-2011.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "corrections officer",
+        "prison officer",
+        "probation officer",
+        "community corrections officer",
+        "Corrections New Zealand officer"
+      ],
+      "onet_title": "Correctional Officers and Jailers",
+      "onet_code": "33-3012.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "librarian",
+        "senior librarian",
+        "school librarian",
+        "public librarian",
+        "library manager",
+        "information specialist",
+        "archivist"
+      ],
+      "onet_title": "Librarians and Media Collections Specialists",
+      "onet_code": "25-4022.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "childcare worker",
+        "daycare worker",
+        "creche worker",
+        "nanny",
+        "au pair",
+        "OSCAR coordinator",
+        "after-school care worker"
+      ],
+      "onet_title": "Childcare Workers",
+      "onet_code": "39-9011.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "funeral director",
+        "undertaker",
+        "mortician",
+        "funeral home manager",
+        "funeral service practitioner",
+        "funeral celebrant"
+      ],
+      "onet_title": "Morticians, Undertakers, and Funeral Arrangers",
+      "onet_code": "39-4031.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "general manager",
+        "GM",
+        "operations manager",
+        "COO",
+        "chief operating officer",
+        "managing director",
+        "MD"
+      ],
+      "onet_title": "General and Operations Managers",
+      "onet_code": "11-1021.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "CEO",
+        "chief executive",
+        "chief executive officer",
+        "executive director (CEO)"
+      ],
+      "onet_title": "Chief Executives",
+      "onet_code": "11-1011.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "pilot",
+        "airline pilot",
+        "commercial pilot",
+        "first officer (aviation)",
+        "captain (aviation)",
+        "helicopter pilot"
+      ],
+      "onet_title": "Airline Pilots, Copilots, and Flight Engineers",
+      "onet_code": "53-2011.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "minister",
+        "pastor",
+        "vicar",
+        "priest",
+        "minister of religion",
+        "reverend",
+        "kaumatua (pastoral role)",
+        "chaplain",
+        "church minister"
+      ],
+      "onet_title": "Clergy",
+      "onet_code": "21-2011.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "farmer",
+        "sheep farmer",
+        "dairy farmer",
+        "beef farmer",
+        "cropping farmer",
+        "farm manager",
+        "orchard manager",
+        "grower",
+        "horticulturalist (farming)",
+        "station manager",
+        "farm owner"
+      ],
+      "onet_title": "Farmers, Ranchers, and Other Agricultural Managers",
+      "onet_code": "11-9013.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "farm worker",
+        "farm labourer",
+        "farm hand",
+        "dairy worker",
+        "orchard worker",
+        "fruit picker",
+        "seasonal worker",
+        "agricultural worker",
+        "vineyard worker",
+        "shearing contractor"
+      ],
+      "onet_title": "Agricultural Workers, All Other",
+      "onet_code": "45-2099.00",
+      "category": "other"
+    },
+    {
+      "input_variants": [
+        "nurse practitioner",
+        "NP",
+        "advanced practice nurse",
+        "APNZ",
+        "clinical nurse specialist",
+        "CNS",
+        "nurse specialist"
+      ],
+      "onet_title": "Registered Nurses",
+      "onet_code": "29-1141.00",
+      "category": "healthcare"
+    },
+    {
+      "input_variants": [
+        "business analyst",
+        "BA",
+        "process analyst",
+        "systems analyst (business)",
+        "functional analyst",
+        "requirements analyst"
+      ],
+      "onet_title": "Management Analysts",
+      "onet_code": "13-1111.00",
+      "category": "professional_services"
+    },
+    {
+      "input_variants": [
+        "general manager",
+        "GM",
+        "COO",
+        "chief operating officer",
+        "managing director",
+        "MD",
+        "country manager",
+        "regional manager"
+      ],
+      "onet_title": "General and Operations Managers",
+      "onet_code": "11-1021.00",
+      "category": "other"
+    }
+  ]
+}

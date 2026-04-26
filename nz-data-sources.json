@@ -1,0 +1,601 @@
+{
+  "compiled": "2026-04-26",
+  "notes": "Source 1 (newzealand.ai) returned 404 — substituted with AI Forum NZ Sep 2024 productivity report. Source 5 (AI Forum PDF) exceeded fetch size limit — substituted with AI Forum Aug 2025 report page. Creative industry sources (IDs 6-9) added 2026-04-26. RBNZ AN2026-02 added 2026-04-26.",
+  "sources": [
+    {
+      "id": 1,
+      "organisation": "AI Forum of New Zealand, Te Herenga Waka Victoria University of Wellington, Callaghan Innovation",
+      "report_title": "AI Business Productivity Report",
+      "year": 2024,
+      "month": "September",
+      "url": "https://aiforum.org.nz/2024/09/03/new-research-shows-ai-is-boosting-productivity-with-minimal-job-displacement/",
+      "pdf_url": "https://aiforum.org.nz/wp-content/uploads/2024/09/AI-Business-Productivity-Report_September-2024_final.pdf",
+      "contact": "Madeline Newman, Executive Director, AI Forum NZ",
+      "key_stats": [
+        {
+          "stat": "67% of NZ respondents are already using AI, particularly generative AI",
+          "context": "Inaugural biannual AI adoption snapshot across NZ businesses",
+          "category": "adoption"
+        },
+        {
+          "stat": "96% of AI-using businesses reported increased worker efficiency",
+          "context": "Among businesses already using AI",
+          "category": "productivity"
+        },
+        {
+          "stat": "Over 50% of AI-using businesses experienced positive financial outcomes",
+          "context": "Financial costs described as remaining manageable",
+          "category": "financial"
+        },
+        {
+          "stat": "Minimal job displacement observed at time of publication",
+          "context": "New career opportunities emerging alongside AI adoption",
+          "category": "workforce"
+        }
+      ],
+      "industries_mentioned": [
+        "general business",
+        "technology",
+        "professional services"
+      ],
+      "nz_specific_insight": "NZ's inaugural systematic AI productivity snapshot showed high adoption (67%) with minimal displacement at the time — a baseline that has since shifted, with the 2025 follow-up showing job losses doubling to 14%."
+    },
+    {
+      "id": 2,
+      "organisation": "Datacom / Curia Market Research",
+      "report_title": "NZ AI Index 2025: State of AI Adoption and Barriers",
+      "year": 2025,
+      "month": "October",
+      "url": "https://thewebcompany.digital/ai-new-zealand-2025-state-adoption-barriers/",
+      "key_stats": [
+        {
+          "stat": "87% of large NZ organisations now use AI",
+          "context": "Up from 66% in 2024 and 48% in 2023 — near-doubling in two years",
+          "category": "adoption"
+        },
+        {
+          "stat": "89% of AI-using organisations report productivity gains",
+          "context": "Among large organisations currently using AI",
+          "category": "productivity"
+        },
+        {
+          "stat": "20% of organisations report productivity gains of 25% or more",
+          "context": "35% report 10–25% gains; 28% under 10%",
+          "category": "productivity"
+        },
+        {
+          "stat": "Only 14% of NZ workforces are confident and actively using AI",
+          "context": "40% have moderate area-specific capability; 28% still building awareness",
+          "category": "skills"
+        },
+        {
+          "stat": "50%+ of organisations experience 'shadow AI' — unapproved AI tool use by staff",
+          "context": "Employees adopting AI tools faster than employer governance allows",
+          "category": "risk"
+        },
+        {
+          "stat": "50% of NZ business leaders believe NZ lags behind other countries on AI",
+          "context": "49% not confident in government readiness for AI",
+          "category": "policy"
+        },
+        {
+          "stat": "32% cite lack of internal capability and skills as the top AI barrier",
+          "context": "Second barrier: data quality/integration (22%); third: governance uncertainty (16%)",
+          "category": "barriers"
+        },
+        {
+          "stat": "46% of large NZ organisations still only exploring AI with pilots",
+          "context": "Only 12% have scaled AI deployment across their entire organisation",
+          "category": "maturity"
+        }
+      ],
+      "industries_mentioned": [
+        "finance",
+        "manufacturing",
+        "logistics",
+        "healthcare",
+        "public sector",
+        "retail"
+      ],
+      "sector_detail": {
+        "finance": "Automation of checks and anomaly detection",
+        "manufacturing_logistics": "Demand forecasting and predictive maintenance",
+        "healthcare": "Triage, scheduling, clinical decision support",
+        "public_sector": "Queue management and request handling",
+        "retail": "Demand planning and pricing optimisation"
+      },
+      "nz_specific_insight": "NZ AI adoption among large organisations has nearly doubled since 2023, yet only 12% have achieved organisation-wide scale. 'Shadow AI' is widespread, with staff adopting tools faster than employers can govern — suggesting workforce exposure to AI disruption is outpacing organisational readiness."
+    },
+    {
+      "id": 3,
+      "organisation": "Microsoft New Zealand / Accenture",
+      "report_title": "Generative AI Expected to More Than Double New Zealand's Productivity",
+      "year": 2024,
+      "month": "August",
+      "published": "2024-08-21",
+      "url": "https://news.microsoft.com/en-nz/2024/08/21/generative-ai-expected-to-more-than-double-new-zealands-productivity-report/",
+      "key_stats": [
+        {
+          "stat": "$76 billion annually added to NZ GDP by 2038 — equivalent to 15% of GDP",
+          "context": "Optimistic scenario reaches $102 billion; downside risk of $33 billion loss if digital gaps persist",
+          "category": "economic"
+        },
+        {
+          "stat": "NZ workers are the third-fastest AI adopters globally",
+          "context": "Despite lagging enterprise-level adoption; described as a 'BYO AI' situation",
+          "category": "adoption"
+        },
+        {
+          "stat": "NZ workers save an average of 275 hours per year (roughly 1 hour per working day) using AI",
+          "context": "Based on analysis of 19,000+ tasks across 400 occupations",
+          "category": "productivity"
+        },
+        {
+          "stat": "24% of NZ work tasks can be augmented by generative AI",
+          "context": "A further 14% of tasks could be fully automated",
+          "category": "risk"
+        },
+        {
+          "stat": "GDP gains could halve to $39 billion without strategic action on digital maturity",
+          "context": "NZ Treasury noted NZ is slower than peers in enterprise-level generative AI adoption",
+          "category": "risk"
+        }
+      ],
+      "industries_mentioned": [
+        "general workforce",
+        "professional services",
+        "public sector"
+      ],
+      "nz_specific_insight": "NZ has a paradox: workers are among the world's fastest individual AI adopters (3rd globally), yet NZ enterprises lag their international peers in systematic deployment. This creates a 'BYO AI' dynamic where workers are self-exposed to automation risk before their employers have governance in place."
+    },
+    {
+      "id": 4,
+      "organisation": "The Conversation / University of Auckland, Waipapa Taumata Rau",
+      "report_title": "AI is peeling back the layers of low-value work — NZ may be well-placed to adapt",
+      "year": 2025,
+      "month": "August",
+      "published": "2025-08-13",
+      "author": "Kenny Ching, University of Auckland",
+      "url": "https://theconversation.com/ai-is-peeling-back-the-layers-of-low-value-work-nz-may-be-well-placed-to-adapt-262500",
+      "key_stats": [
+        {
+          "stat": "60–70% of activities in office support, customer service, and professional services can be automated",
+          "context": "McKinsey estimate cited; most affected: admin, legal, finance, compliance, marketing, consulting",
+          "category": "risk"
+        },
+        {
+          "stat": "AI could automate work equivalent to 300 million full-time jobs globally",
+          "context": "Goldman Sachs 2023 estimate",
+          "category": "global_context"
+        },
+        {
+          "stat": "Approximately 70% of NZ exports come from agriculture, horticulture, seafood, and forestry",
+          "context": "Used to argue NZ's economic structure provides structural insulation from AI displacement",
+          "category": "nz_economy"
+        },
+        {
+          "stat": "Most NZ job growth between 2000–2018 occurred in low-productivity service sectors",
+          "context": "These sectors are now among the most exposed to AI-driven restructuring",
+          "category": "risk"
+        }
+      ],
+      "high_risk_roles": [
+        "administrative roles",
+        "legal support",
+        "finance and compliance",
+        "marketing and consulting",
+        "corporate administration",
+        "office support and customer service",
+        "humanities education"
+      ],
+      "lower_risk_roles": [
+        "aged care",
+        "physiotherapy",
+        "plumbing and trades",
+        "childcare and early childhood education",
+        "STEM occupations",
+        "primary and secondary teaching (mentorship-based)",
+        "healthcare requiring human empathy"
+      ],
+      "nz_specific_insight": "NZ's economy — anchored in primary industries requiring physical dexterity, sensory judgment, and human care — may be 'structurally insulated from the worst of the AI shock' compared to more service-heavy economies like the US or UK. However, the low-productivity service sector growth of the 2000s–2010s means a significant cohort of NZ workers hold roles now directly in AI's crosshairs."
+    },
+    {
+      "id": 5,
+      "organisation": "AI Forum of New Zealand",
+      "report_title": "AI in Action: Key Findings from New Zealand's Third AI Productivity Report",
+      "year": 2025,
+      "month": "August",
+      "url": "https://aiforum.org.nz/2025/08/25/ai-in-action-key-findings-from-new-zealands-third-ai-productivity-report/",
+      "note": "Original PDF URL exceeded fetch size; data extracted from published summary page",
+      "key_stats": [
+        {
+          "stat": "14% of NZ businesses now attribute job losses directly to AI",
+          "context": "Doubled from 7% in the previous report — a 100% increase year-on-year",
+          "category": "workforce"
+        },
+        {
+          "stat": "~50% of AI-adopting NZ businesses report reduced need to hire new staff",
+          "context": "Hiring reduction is a leading indicator of structural job displacement",
+          "category": "workforce"
+        },
+        {
+          "stat": "91% of NZ businesses report efficiency improvements from AI",
+          "context": "Up from 96% in 2024; now measured across a broader sample",
+          "category": "productivity"
+        },
+        {
+          "stat": "77% of AI-using NZ organisations are reducing operational expenses",
+          "context": "25%+ report annual benefits exceeding $50,000",
+          "category": "financial"
+        },
+        {
+          "stat": "55% of NZ organisations have created new career opportunities through AI",
+          "context": "Growing demand for skills in data, governance, and digital transformation",
+          "category": "opportunity"
+        },
+        {
+          "stat": "75% of NZ AI adopters report setup costs under $5,000",
+          "context": "Low barrier to entry accelerating adoption across business sizes",
+          "category": "adoption"
+        },
+        {
+          "stat": "44% of New Zealanders believe AI benefits outweigh risks",
+          "context": "Trust concerns are 'particularly acute among Māori and Pasifika communities'",
+          "category": "public_sentiment"
+        }
+      ],
+      "industries_mentioned": [
+        "media",
+        "education",
+        "engineering",
+        "local government"
+      ],
+      "nz_specific_insight": "Job losses attributed to AI in NZ doubled from 7% to 14% of businesses in a single reporting period — the sharpest single-year increase recorded. Simultaneously, 50% of adopters are reducing hiring, signalling structural workforce reshaping rather than isolated displacement. Trust gaps are deepest among Māori and Pasifika workers, raising equity concerns about who bears the burden of AI disruption."
+    },
+    {
+      "id": 6,
+      "organisation": "The Creative Store",
+      "report_title": "New Zealand Creative Industry Salary Survey 2026",
+      "year": 2026,
+      "month": "March",
+      "published": "2026-03-04",
+      "url": "https://thecreativestore.co.nz/creative-talk/spotlight/the-creative-store-new-zealand-salary-survey-2026/",
+      "key_stats": [
+        {
+          "stat": "AI has 'flattened' junior and BAU/content-focused creative roles in NZ",
+          "context": "Described as the defining hiring trend of 2025 — junior positions reduced or eliminated as AI handles routine output",
+          "category": "workforce",
+          "roles_affected": [
+            "junior designers",
+            "content writers",
+            "production designers",
+            "BAU creatives"
+          ]
+        },
+        {
+          "stat": "Salaries experienced downward pressure in 2025; many candidates reducing expectations to secure roles",
+          "context": "Skilled candidate surplus created by restructuring and redundancies across NZ creative sector",
+          "category": "salary"
+        },
+        {
+          "stat": "Senior strategists with AI prompt expertise are increasingly valued and command premium rates",
+          "context": "Multi-skilled professionals who can work with AI tools commanding higher compensation",
+          "category": "opportunity",
+          "roles_affected": [
+            "senior creative directors",
+            "art directors",
+            "strategists"
+          ]
+        },
+        {
+          "stat": "Developer positions (freelance and permanent) saw marked slowdown in 2025",
+          "context": "Both contract and permanent developer roles declined notably",
+          "category": "workforce"
+        },
+        {
+          "stat": "Studios pivoting to lean permanent teams supplemented by specialist freelancers",
+          "context": "Structural shift away from permanent junior hires toward flexible, senior-weighted teams",
+          "category": "workforce"
+        },
+        {
+          "stat": "In-demand roles: email/marketing automation specialists, paid ads (Google/Meta), social/video content creators",
+          "context": "Roles requiring platform expertise and video production skills are resilient",
+          "category": "opportunity"
+        }
+      ],
+      "roles_high_risk": [
+        "junior graphic designers",
+        "junior content writers",
+        "production designers",
+        "BAU creatives",
+        "routine content creators"
+      ],
+      "roles_lower_risk": [
+        "senior creative directors",
+        "AI-literate strategists",
+        "social media/video creators",
+        "email marketing specialists",
+        "paid ads specialists"
+      ],
+      "nz_specific_insight": "NZ creative industry data confirms AI is not yet causing mass job losses but has structurally eliminated entry-level and routine creative positions. The bifurcation is sharp: junior/BAU roles are being automated while senior AI-literate creatives are commanding higher salaries. This is the clearest NZ-specific validation that our O*NET scores underestimate risk for junior creative roles.",
+      "humanise_scoring_implications": {
+        "junior_designers": "+10 to +15 (explicitly flattened by AI in NZ)",
+        "copywriters_content_writers": "+10 (BAU content directly automated)",
+        "senior_creative_directors": "-5 (AI literacy premium; strategic value increasing)",
+        "art_directors": "-5 (senior creative leadership increasingly valued)"
+      }
+    },
+    {
+      "id": 7,
+      "organisation": "RNZ / Radio New Zealand",
+      "report_title": "Music is at the forefront of AI disruption but NZ artists still have few protections",
+      "year": 2025,
+      "month": "July",
+      "published": "2025-07-14",
+      "url": "https://www.rnz.co.nz/news/on-the-inside/566824/music-is-at-the-forefront-of-ai-disruption-but-nz-artists-still-have-few-protections",
+      "key_stats": [
+        {
+          "stat": "NZ's legal framework for AI and creative works described as 'woefully inadequate'",
+          "context": "No specific legal protection against AI deepfakes or AI training on NZ artists' work",
+          "category": "risk"
+        },
+        {
+          "stat": "NZ lags EU, Australia and Denmark in AI protections for creative workers",
+          "context": "Australia has begun legislating AI creative protections; NZ has no equivalent",
+          "category": "risk"
+        },
+        {
+          "stat": "Māori writer members of APRA AMCOS raised concerns about cultural appropriation and misuse by generative AI",
+          "context": "Māori creative works and te reo Māori content at specific risk of being scraped and reproduced without consent or cultural authority",
+          "category": "maori_dimension"
+        }
+      ],
+      "roles_high_risk": [
+        "musicians",
+        "singers",
+        "composers",
+        "songwriters",
+        "recording artists"
+      ],
+      "roles_lower_risk": [
+        "music technicians using AI for mixing/mastering (adaptive use)"
+      ],
+      "nz_specific_insight": "NZ music creators face a regulatory vacuum — no consent requirements, no compensation framework, no deepfake protections. This amplifies automation risk beyond what O*NET scores capture, because NZ musicians face not just technological substitution but also legal non-protection for their existing work being used as training data. Māori artists face the additional dimension of cultural appropriation through AI scraping.",
+      "maori_dimension": "APRA AMCOS Māori members raised concerns about cultural appropriation; Te Mana Raraunga/Māori Data Sovereignty Network cited as a contrasting governance model for how cultural data should be handled."
+    },
+    {
+      "id": 8,
+      "organisation": "RNZ / Radio New Zealand",
+      "report_title": "Musicians concerned by lack of regulation around fast-evolving AI technology",
+      "year": 2025,
+      "month": "July",
+      "published": "2025-07-31",
+      "url": "https://www.rnz.co.nz/news/national/568613/musicians-concerned-by-lack-of-regulation-around-fast-evolving-ai-technology",
+      "key_stats": [
+        {
+          "stat": "NZ operates as a regulatory 'wild west' with no protections or laws covering AI-generated music",
+          "context": "Current Copyright Act assigns AI-generated work to whoever prompted it, regardless of what training data was used",
+          "category": "risk"
+        },
+        {
+          "stat": "Government AI strategy report omitted creative industries implications entirely",
+          "context": "NZ government has not yet addressed how AI affects the creative workforce in its national AI strategy",
+          "category": "risk"
+        },
+        {
+          "stat": "AI music platforms (Suno, Udio) train on all scraped internet music without disclosing sources",
+          "context": "NZ musicians' recordings included in AI training data without consent or compensation",
+          "category": "risk"
+        }
+      ],
+      "key_quotes": [
+        {
+          "speaker": "Sophie Burbery (musician/PhD student)",
+          "quote": "Suno has admitted that all of its music is trained on anything it can scrape from the internet under fair use."
+        },
+        {
+          "speaker": "Clive Elliott KC (IP barrister)",
+          "quote": "We have to find a way which compensates people."
+        },
+        {
+          "speaker": "Jeremy Toy (producer/artist)",
+          "quote": "I find it offensive that people think they can train a computer to think independently like a creative."
+        }
+      ],
+      "roles_high_risk": [
+        "songwriters",
+        "music producers",
+        "recording artists",
+        "session musicians"
+      ],
+      "roles_lower_risk": [
+        "music technicians using AI for mixing/mastering"
+      ],
+      "nz_specific_insight": "NZ musicians face compounded risk: technological substitution (AI can generate music in any genre) plus legal non-protection (NZ copyright law inadvertently rewards AI-generated output). The regulatory gap means NZ music creators have no recourse while their work trains the very systems replacing them."
+    },
+    {
+      "id": 9,
+      "organisation": "Copyright Licensing New Zealand (CLNZ)",
+      "report_title": "Aotearoa's Writers and Publishers Are Concerned About Works Being Used to Train AI",
+      "year": 2025,
+      "month": "March",
+      "published": "2025-03-24",
+      "url": "https://www.copyright.co.nz/about/news-and-blog/aotearoas-writers-and-publishers-are-concerned-about-works-being-used-to-train-ai",
+      "survey_details": {
+        "period": "28 November 2024 – 14 January 2025",
+        "respondents": 120,
+        "breakdown": "81% writers (authors, academics, poets, scriptwriters), 19% publishers"
+      },
+      "key_stats": [
+        {
+          "stat": "71% of NZ writers and publishers are concerned about their work being used to train AI",
+          "context": "Survey of 120 NZ writers and publishers, Nov 2024 – Jan 2025",
+          "category": "risk"
+        },
+        {
+          "stat": "50%+ of NZ writers and publishers are unsure whether their work has already been used for AI training",
+          "context": "Lack of transparency from AI companies means NZ creators don't know if they've been included in training datasets",
+          "category": "risk"
+        },
+        {
+          "stat": "73% of those whose work was used for AI training did not consent",
+          "context": "Among respondents who are aware their work was used — non-consensual use is the norm, not the exception",
+          "category": "risk"
+        }
+      ],
+      "roles_high_risk": [
+        "authors",
+        "poets",
+        "scriptwriters",
+        "copywriters",
+        "content writers",
+        "academics"
+      ],
+      "nz_specific_insight": "NZ writers and publishers face a double exposure: their existing body of work is being incorporated into AI training datasets without consent or compensation, while AI simultaneously threatens to automate their future output. The 73% non-consent rate among those aware their work was used confirms this is not hypothetical — it is already happening to NZ creative workers.",
+      "calls_for_action": [
+        "consent and licensing frameworks",
+        "compensation for training data use",
+        "transparency from AI companies",
+        "stronger NZ copyright law"
+      ]
+    },
+    {
+      "id": 10,
+      "organisation": "Reserve Bank of New Zealand (Te Pūtea Matua)",
+      "report_title": "Assessing AI and Robotics Exposure in the NZ Labour Market Using LLMs",
+      "report_code": "AN2026-02",
+      "year": 2026,
+      "month": "February",
+      "url": "https://www.rbnz.govt.nz/hub/publications/analytical-note/2026/assessing-ai-and-robotics-exposure-in-the-nz-labour-market-using-llms",
+      "methodology": "PRComp scoring — principal-component ensemble of scores from 10 LLMs (including Claude Opus 4.1, GPT-4o, Gemini 1.5 Pro, LLaMA 3.1) assessing AI and robotics task exposure per ANZSCO occupation. AI and robotics scores combined into a joint PRComp index (0–1). Relevance to Humanise: methodology is directly comparable — Claude was one of the 10 models used.",
+      "scale_note": "PRComp score 0–1 where 1 = maximum exposure. To convert to Humanise 1–99 scale: multiply by 98 + 1.",
+      "key_stats": [
+        {
+          "stat": "30% of NZ workers face high joint AI+robotics exposure (PRComp > 0.8)",
+          "context": "Joint exposure combines AI task substitution and physical robotics automation",
+          "category": "risk"
+        },
+        {
+          "stat": "65% of NZ workers face moderate joint exposure (PRComp 0.2–0.8)",
+          "context": "The broad middle of the NZ workforce is in a significant transition zone",
+          "category": "risk"
+        },
+        {
+          "stat": "Less than 5% of NZ workers face low joint exposure (PRComp < 0.2)",
+          "context": "Very few NZ occupations are effectively shielded from AI+robotics disruption",
+          "category": "risk"
+        },
+        {
+          "stat": "Administrative workers face HIGHER AI exposure than managers",
+          "context": "Counterintuitive NZ-specific finding: admin roles more exposed than their managerial counterparts",
+          "category": "nz_specific"
+        },
+        {
+          "stat": "Māori workers show significantly less AI exposure across most models",
+          "context": "Attributed to occupational concentration in sectors with lower AI exposure (primary industries, trades, community service)",
+          "category": "maori_dimension"
+        },
+        {
+          "stat": "Workers aged 30–39 and 50+ face highest AI exposure",
+          "context": "Mid-career and near-retirement workers more concentrated in automatable roles",
+          "category": "demographics"
+        },
+        {
+          "stat": "Workers earning NZD $50k–$150k face the highest AI exposure band",
+          "context": "Mid-income bracket — not the lowest-paid physical workers, not the highest-paid executives",
+          "category": "demographics"
+        }
+      ],
+      "highest_ai_exposure": [
+        {
+          "anzsco_title": "Software and Applications Programmers",
+          "prcomp_score": 1.0,
+          "humanise_equiv": 99
+        },
+        {
+          "anzsco_title": "Payroll Clerks",
+          "prcomp_score": 0.953,
+          "humanise_equiv": 94
+        },
+        {
+          "anzsco_title": "Accounting Clerks",
+          "prcomp_score": 0.936,
+          "humanise_equiv": 93
+        },
+        {
+          "anzsco_title": "Database and Systems Administrators",
+          "prcomp_score": 0.932,
+          "humanise_equiv": 92
+        },
+        {
+          "anzsco_title": "Financial Dealers",
+          "prcomp_score": 0.911,
+          "humanise_equiv": 90
+        }
+      ],
+      "lowest_ai_exposure": [
+        {
+          "anzsco_title": "Sportspersons",
+          "prcomp_score": 0.0,
+          "humanise_equiv": 1
+        },
+        {
+          "anzsco_title": "Domestic Cleaners",
+          "prcomp_score": 0.001,
+          "humanise_equiv": 1
+        },
+        {
+          "anzsco_title": "Funeral Workers",
+          "prcomp_score": 0.002,
+          "humanise_equiv": 1
+        },
+        {
+          "anzsco_title": "Fencers",
+          "prcomp_score": 0.003,
+          "humanise_equiv": 1
+        },
+        {
+          "anzsco_title": "Ministers of Religion",
+          "prcomp_score": 0.006,
+          "humanise_equiv": 1
+        }
+      ],
+      "highest_robotics_exposure": [
+        {
+          "anzsco_title": "Plastics and Rubber Factory Workers",
+          "prcomp_score": 1.0
+        },
+        {
+          "anzsco_title": "Food and Drink Factory Workers",
+          "prcomp_score": 0.996
+        },
+        {
+          "anzsco_title": "Packers",
+          "prcomp_score": 0.984
+        },
+        {
+          "anzsco_title": "Machine Operators",
+          "prcomp_score": 0.981
+        }
+      ],
+      "creative_roles_ai_only": [
+        {
+          "anzsco_title": "Journalists and Other Writers",
+          "ai_score": 0.661,
+          "robotics_score": 0.0,
+          "humanise_ai_equiv": 65,
+          "note": "High AI, zero robotics — a pure cognitive automation risk. Strong signal for Humanise."
+        },
+        {
+          "anzsco_title": "Authors and Book Editors",
+          "ai_score": 0.61,
+          "robotics_score": 0.002,
+          "humanise_ai_equiv": 60,
+          "note": "High AI exposure. Confirms CLNZ survey findings. NZ creative writing roles at significant risk."
+        }
+      ],
+      "nz_specific_insight": "The RBNZ's LLM-ensemble methodology produces a fundamentally different risk picture than O*NET structural scores for two key occupation groups: (1) Software/tech workers score MUCH higher on RBNZ (PRComp ~1.0) than O*NET creativity/complexity scores suggest (~35–45 on Humanise scale) — reflecting AI's demonstrated ability to write code. (2) Physical workers (cleaners, sports, funeral) score MUCH LOWER on RBNZ (near zero) than O*NET routine scores suggest — reflecting that robotics deployment in NZ is limited. Humanise should use RBNZ as a NZ-calibration layer on top of the O*NET structural baseline.",
+      "methodology_note_for_humanise": "Because the RBNZ used Claude (Opus 4.1) as one of its 10 scoring LLMs, there is a direct methodological bridge between RBNZ findings and Humanise. This makes RBNZ the most citable NZ-specific validation source available."
+    }
+  ]
+}
