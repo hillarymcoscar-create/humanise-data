@@ -2576,7 +2576,7 @@
   {
     "onet_code": "39-4031.00",
     "title": "Morticians, Undertakers, and Funeral Arrangers",
-    "risk_score": 31,
+    "risk_score": 22,
     "risk_band": "Low",
     "key_factors": {
       "creative": 71,
@@ -2593,7 +2593,8 @@
       "Oversee the preparation and care of",
       "Manage funeral home operations",
       "Consult with families or friends of"
-    ]
+    ],
+    "nz_context_note": "Protected by physical and social requirements. RBNZ AN2026-02: Funeral Workers PRComp 0.002. The emotional, ceremonial and hands-on nature of this work is deeply resistant to AI substitution."
   },
   {
     "onet_code": "29-1291.00",
@@ -2862,8 +2863,8 @@
   {
     "onet_code": "27-1014.00",
     "title": "Special Effects Artists and Animators",
-    "risk_score": 31,
-    "risk_band": "Low",
+    "risk_score": 41,
+    "risk_band": "Moderate",
     "key_factors": {
       "creative": 96,
       "hands_on": 14,
@@ -2884,7 +2885,7 @@
   {
     "onet_code": "27-1011.00",
     "title": "Art Directors",
-    "risk_score": 31,
+    "risk_score": 26,
     "risk_band": "Low",
     "key_factors": {
       "creative": 99,
@@ -3170,8 +3171,8 @@
   {
     "onet_code": "27-4021.00",
     "title": "Photographers",
-    "risk_score": 32,
-    "risk_band": "Low",
+    "risk_score": 40,
+    "risk_band": "Moderate",
     "key_factors": {
       "creative": 90,
       "hands_on": 42,
@@ -3236,7 +3237,7 @@
   {
     "onet_code": "11-9171.00",
     "title": "Funeral Home Managers",
-    "risk_score": 32,
+    "risk_score": 22,
     "risk_band": "Low",
     "key_factors": {
       "creative": 85,
@@ -3253,7 +3254,8 @@
       "Explain goals policies or procedures",
       "Plan and implement sales promotions or",
       "Direct and supervise work of"
-    ]
+    ],
+    "nz_context_note": "Protected by physical and social requirements. RBNZ AN2026-02: Funeral Workers PRComp 0.002."
   },
   {
     "onet_code": "27-4032.00",
@@ -3500,8 +3502,8 @@
   {
     "onet_code": "27-2041.00",
     "title": "Music Directors and Composers",
-    "risk_score": 32,
-    "risk_band": "Low",
+    "risk_score": 42,
+    "risk_band": "Moderate",
     "key_factors": {
       "creative": 87,
       "hands_on": 33,
@@ -3742,7 +3744,7 @@
   {
     "onet_code": "27-1024.00",
     "title": "Graphic Designers",
-    "risk_score": 33,
+    "risk_score": 43,
     "risk_band": "Moderate",
     "key_factors": {
       "creative": 98,
@@ -4248,8 +4250,8 @@
   {
     "onet_code": "11-2011.00",
     "title": "Advertising and Promotions Managers",
-    "risk_score": 33,
-    "risk_band": "Moderate",
+    "risk_score": 28,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 76,
       "hands_on": 20,
@@ -4820,8 +4822,8 @@
   {
     "onet_code": "25-2011.00",
     "title": "Preschool Teachers, Except Special Education",
-    "risk_score": 34,
-    "risk_band": "Moderate",
+    "risk_score": 25,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 67,
       "hands_on": 54,
@@ -5040,8 +5042,8 @@
   {
     "onet_code": "15-1299.09",
     "title": "Information Technology Project Managers",
-    "risk_score": 35,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 69,
       "hands_on": 19,
@@ -5194,7 +5196,7 @@
   {
     "onet_code": "27-1013.00",
     "title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
-    "risk_score": 35,
+    "risk_score": 43,
     "risk_band": "Moderate",
     "key_factors": {
       "creative": 95,
@@ -5524,8 +5526,8 @@
   {
     "onet_code": "15-1251.00",
     "title": "Computer Programmers",
-    "risk_score": 36,
-    "risk_band": "Moderate",
+    "risk_score": 72,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 84,
       "hands_on": 10,
@@ -6096,8 +6098,8 @@
   {
     "onet_code": "39-9011.00",
     "title": "Childcare Workers",
-    "risk_score": 36,
-    "risk_band": "Moderate",
+    "risk_score": 25,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 68,
       "hands_on": 59,
@@ -6668,8 +6670,8 @@
   {
     "onet_code": "27-3023.00",
     "title": "News Analysts, Reporters, and Journalists",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 53,
+    "risk_band": "High",
     "key_factors": {
       "creative": 72,
       "hands_on": 27,
@@ -7064,8 +7066,8 @@
   {
     "onet_code": "27-3043.05",
     "title": "Poets, Lyricists and Creative Writers",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 48,
+    "risk_band": "High",
     "key_factors": {
       "creative": 95,
       "hands_on": 17,
@@ -7218,8 +7220,8 @@
   {
     "onet_code": "31-2022.00",
     "title": "Physical Therapist Aides",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 30,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 63,
       "hands_on": 56,
@@ -7235,13 +7237,14 @@
       "Confer with physical therapy staff or",
       "Instruct, motivate, safeguard, or assist patients",
       "Train patients to use orthopedic"
-    ]
+    ],
+    "nz_context_note": "Hands-on care, limited robotics deployment in NZ."
   },
   {
     "onet_code": "31-1121.00",
     "title": "Home Health Aides",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 30,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 64,
       "hands_on": 70,
@@ -7257,7 +7260,8 @@
       "Care for patients by changing bed",
       "Provide patients and families with emotional",
       "Care for children with disabilities or"
-    ]
+    ],
+    "nz_context_note": "Hands-on care, limited robotics deployment in NZ. RBNZ AN2026-02 signals very low AI exposure for physical care work."
   },
   {
     "onet_code": "11-3051.01",
@@ -7328,8 +7332,8 @@
   {
     "onet_code": "15-1252.00",
     "title": "Software Developers",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 72,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 83,
       "hands_on": 10,
@@ -7504,8 +7508,8 @@
   {
     "onet_code": "13-2099.01",
     "title": "Financial Quantitative Analysts",
-    "risk_score": 38,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 73,
       "hands_on": 5,
@@ -7724,8 +7728,8 @@
   {
     "onet_code": "27-2042.00",
     "title": "Musicians and Singers",
-    "risk_score": 39,
-    "risk_band": "Moderate",
+    "risk_score": 49,
+    "risk_band": "High",
     "key_factors": {
       "creative": 69,
       "hands_on": 56,
@@ -7834,8 +7838,8 @@
   {
     "onet_code": "27-3043.00",
     "title": "Writers and Authors",
-    "risk_score": 39,
-    "risk_band": "Moderate",
+    "risk_score": 49,
+    "risk_band": "High",
     "key_factors": {
       "creative": 71,
       "hands_on": 19,
@@ -8296,8 +8300,8 @@
   {
     "onet_code": "15-2051.01",
     "title": "Business Intelligence Analysts",
-    "risk_score": 40,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 69,
       "hands_on": 4,
@@ -8384,8 +8388,8 @@
   {
     "onet_code": "27-3041.00",
     "title": "Editors",
-    "risk_score": 40,
-    "risk_band": "Moderate",
+    "risk_score": 50,
+    "risk_band": "High",
     "key_factors": {
       "creative": 77,
       "hands_on": 16,
@@ -8648,8 +8652,8 @@
   {
     "onet_code": "31-1122.00",
     "title": "Personal Care Aides",
-    "risk_score": 40,
-    "risk_band": "Moderate",
+    "risk_score": 30,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 66,
       "hands_on": 63,
@@ -8665,7 +8669,8 @@
       "Instruct or advise clients on issues",
       "Care for individuals or families during",
       "Train family members"
-    ]
+    ],
+    "nz_context_note": "Hands-on care, limited robotics deployment in NZ."
   },
   {
     "onet_code": "47-2022.00",
@@ -8868,8 +8873,8 @@
   {
     "onet_code": "15-1242.00",
     "title": "Database Administrators",
-    "risk_score": 41,
-    "risk_band": "Moderate",
+    "risk_score": 68,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 68,
       "hands_on": 8,
@@ -8890,8 +8895,8 @@
   {
     "onet_code": "15-1243.00",
     "title": "Database Architects",
-    "risk_score": 41,
-    "risk_band": "Moderate",
+    "risk_score": 68,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 73,
       "hands_on": 5,
@@ -9418,8 +9423,8 @@
   {
     "onet_code": "31-1133.00",
     "title": "Psychiatric Aides",
-    "risk_score": 41,
-    "risk_band": "Moderate",
+    "risk_score": 30,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 67,
       "hands_on": 50,
@@ -9435,13 +9440,14 @@
       "Provide patients with",
       "Provide patients with assistance in",
       "Listen and provide emotional support and"
-    ]
+    ],
+    "nz_context_note": "Hands-on care, limited robotics deployment in NZ. Mental health support requires human presence and empathy."
   },
   {
     "onet_code": "31-1131.00",
     "title": "Nursing Assistants",
-    "risk_score": 41,
-    "risk_band": "Moderate",
+    "risk_score": 30,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 56,
       "hands_on": 58,
@@ -9457,7 +9463,8 @@
       "Provide physical support",
       "Assist nurses or physicians in the",
       "Communicate with patients"
-    ]
+    ],
+    "nz_context_note": "Hands-on care, limited robotics deployment in NZ. Physical patient care requires human presence."
   },
   {
     "onet_code": "43-6011.00",
@@ -12168,8 +12175,8 @@
   {
     "onet_code": "15-1244.00",
     "title": "Network and Computer Systems Administrators",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 68,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 63,
       "hands_on": 23,
@@ -12278,8 +12285,8 @@
   {
     "onet_code": "15-1211.00",
     "title": "Computer Systems Analysts",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 66,
       "hands_on": 19,
@@ -12542,8 +12549,8 @@
   {
     "onet_code": "39-4021.00",
     "title": "Funeral Attendants",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 22,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 36,
       "hands_on": 67,
@@ -12559,7 +12566,8 @@
       "Supervise funeral processions and assist with",
       "Provide advice to mourners on how",
       "Assist with cremations and the processing"
-    ]
+    ],
+    "nz_context_note": "Protected by physical and social requirements. RBNZ AN2026-02: Funeral Workers PRComp 0.002."
   },
   {
     "onet_code": "45-1011.00",
@@ -12848,8 +12856,8 @@
   {
     "onet_code": "13-2054.00",
     "title": "Financial Risk Specialists",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 50,
       "hands_on": 50,
@@ -13002,8 +13010,8 @@
   {
     "onet_code": "13-2051.00",
     "title": "Financial and Investment Analysts",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 65,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 50,
       "hands_on": 50,
@@ -13265,8 +13273,8 @@
   {
     "onet_code": "15-1253.00",
     "title": "Software Quality Assurance Analysts and Testers",
-    "risk_score": 45,
-    "risk_band": "Moderate",
+    "risk_score": 72,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 71,
       "hands_on": 6,
@@ -13397,8 +13405,8 @@
   {
     "onet_code": "13-2011.00",
     "title": "Accountants and Auditors",
-    "risk_score": 46,
-    "risk_band": "Moderate",
+    "risk_score": 62,
+    "risk_band": "Very High",
     "key_factors": {
       "creative": 58,
       "hands_on": 14,
@@ -14893,7 +14901,7 @@
   {
     "onet_code": "27-3042.00",
     "title": "Technical Writers",
-    "risk_score": 48,
+    "risk_score": 53,
     "risk_band": "High",
     "key_factors": {
       "creative": 64,
@@ -19316,8 +19324,8 @@
   {
     "onet_code": "37-2012.00",
     "title": "Maids and Housekeeping Cleaners",
-    "risk_score": 54,
-    "risk_band": "High",
+    "risk_score": 28,
+    "risk_band": "Low",
     "key_factors": {
       "creative": 30,
       "hands_on": 69,
@@ -19333,7 +19341,8 @@
       "Replace light bulbs",
       "Prepare rooms for meetings and arrange",
       "Move and arrange furniture and turn"
-    ]
+    ],
+    "nz_context_note": "Protected by physical requirements in NZ context. RBNZ AN2026-02: Domestic Cleaners AI PRComp 0.001 — near-zero exposure. In-home physical cleaning has no meaningful robotics deployment in NZ."
   },
   {
     "onet_code": "51-5113.00",
@@ -20328,7 +20337,7 @@
   {
     "onet_code": "43-3051.00",
     "title": "Payroll and Timekeeping Clerks",
-    "risk_score": 57,
+    "risk_score": 75,
     "risk_band": "Very High",
     "key_factors": {
       "creative": 43,
