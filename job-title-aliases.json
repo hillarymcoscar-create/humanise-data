@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "NZ job title alias mapping — common input variants to canonical O*NET titles and codes. Covers NZ-specific slang (sparky, chippie), ANZSCO-aligned categories, and Māori/Pacific workforce titles.",
-  "total_entries": 155,
+  "total_entries": 156,
   "aliases": [
     {
       "input_variants": [
@@ -201,15 +201,14 @@
       "input_variants": [
         "landscaper",
         "landscape gardener",
-        "groundskeeper",
+        "landscape contractor",
         "grounds person",
-        "groundsperson",
-        "horticulturalist",
-        "arborist",
-        "tree surgeon",
-        "tree climber",
+        "groundskeeper",
         "greenkeeper",
-        "green keeper"
+        "green keeper",
+        "lawn care specialist",
+        "lawn mowing",
+        "garden maintenance"
       ],
       "onet_title": "Landscaping and Groundskeeping Workers",
       "onet_code": "37-3011.00",
@@ -2178,6 +2177,27 @@
       "onet_title": "General and Operations Managers",
       "onet_code": "11-1021.00",
       "category": "other"
+    },
+    {
+      "input_variants": [
+        "horticulturalist",
+        "horticulturist",
+        "horticulture specialist",
+        "horticulture consultant",
+        "nursery manager",
+        "nursery worker",
+        "plant scientist",
+        "viticulturist",
+        "orchardist",
+        "market gardener",
+        "arborist",
+        "arboriculturist",
+        "tree surgeon"
+      ],
+      "onet_title": "Soil and Plant Scientists",
+      "onet_code": "19-1013.00",
+      "category": "professional_services",
+      "nz_note": "User-specified code 19-1011.00 (Animal Scientists) corrected to 19-1013.00 (Soil and Plant Scientists) — the accurate O*NET match for horticultural and plant science roles."
     }
   ]
 }
