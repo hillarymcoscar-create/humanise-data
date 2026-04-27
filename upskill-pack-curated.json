@@ -12,6 +12,11 @@
         "title": "CFI Education",
         "url": "https://www.youtube.com/@CFIeducation",
         "why": "Financial modelling, valuation, and FP&A skills — the high-value work AI can't replace."
+      },
+      {
+        "title": "How I Got Xero to Reconcile Itself with AI (Saved Hours of Bookkeeping)",
+        "url": "https://www.youtube.com/watch?v=9uDMzcDUPts",
+        "why": "Real workflow demo — an AI agent logging into Xero and auto-reconciling accounts (Aug 2025)."
       }
     ],
     "courses": [
@@ -52,6 +57,20 @@
       "Set up a free ChatGPT or Claude account and practice summarising financial reports",
       "Spend 30 minutes on the CA ANZ AI in Finance learning page",
       "Identify one repetitive task in your week that could be partially automated — and research a tool for it"
+    ],
+    "community": [
+      {
+        "name": "School of AI",
+        "platform": "Skool",
+        "url": "https://www.skool.com/school-of-ai",
+        "description": "AI for finance and business professionals — active community, free to join"
+      },
+      {
+        "name": "The AI Advantage",
+        "platform": "Skool",
+        "url": "https://www.skool.com/the-ai-advantage",
+        "description": "Practical AI workflows for professionals — active daily discussions"
+      }
     ]
   },
   "Healthcare": {
@@ -66,6 +85,11 @@
         "title": "AI in Medicine — NEJM",
         "url": "https://www.youtube.com/@NEJMvideo",
         "why": "Real clinical AI case studies from the New England Journal of Medicine."
+      },
+      {
+        "title": "AI in Healthcare 2025: Breakthroughs for Your Practice",
+        "url": "https://www.youtube.com/watch?v=LyKZWGk-0cU",
+        "why": "Covers diagnostic AI, clinical note automation, and what it means for frontline clinicians (Dec 2025)."
       }
     ],
     "courses": [
@@ -106,6 +130,20 @@
       "Read Te Whatu Ora's latest digital health strategy (free, 20 minutes)",
       "Identify one documentation task that AI tools could speed up for you",
       "Explore one digital health tool your workplace hasn't yet adopted"
+    ],
+    "community": [
+      {
+        "name": "School of AI",
+        "platform": "Skool",
+        "url": "https://www.skool.com/school-of-ai",
+        "description": "General AI upskilling community with a growing healthcare cohort"
+      },
+      {
+        "name": "Hivebrite (Healthcare Associations)",
+        "platform": "Hivebrite",
+        "url": "https://hivebrite.com",
+        "description": "Platform used by NZ and Australian medical associations for professional development communities — check your specific body"
+      }
     ]
   },
   "Marketing & Advertising": {
@@ -120,6 +158,11 @@
         "title": "Marketing Against the Grain (HubSpot)",
         "url": "https://www.youtube.com/@HubSpot",
         "why": "How top marketers are using AI to scale output without losing brand quality."
+      },
+      {
+        "title": "Google Marketing Live 2025 Highlights — New AI Tools and Ads Updates",
+        "url": "https://www.youtube.com/watch?v=e9BF4Tdat-E",
+        "why": "All the AI marketing tools announced at Google Marketing Live 2025 — essential for any digital marketer."
       }
     ],
     "courses": [
@@ -160,6 +203,20 @@
       "Set up a free Claude or ChatGPT account and write three different ad variations for a real campaign",
       "Spend 1 hour exploring one AI marketing tool (Jasper, Copy.ai, or Canva AI)",
       "Identify which part of your current role takes the most time — find one AI tool that could speed it up"
+    ],
+    "community": [
+      {
+        "name": "The AI Advantage",
+        "platform": "Skool",
+        "url": "https://www.skool.com/the-ai-advantage",
+        "description": "Practical AI for marketers — workflows, tool reviews, and active peer discussion"
+      },
+      {
+        "name": "Kajabi Communities",
+        "platform": "Kajabi",
+        "url": "https://kajabi.com/community",
+        "description": "Several NZ and Australian marketing professionals host paid communities here — search by your specialty"
+      }
     ]
   },
   "Technology": {
@@ -174,6 +231,11 @@
         "title": "Andrej Karpathy",
         "url": "https://www.youtube.com/@AndrejKarpathy",
         "why": "Deep technical understanding of AI/LLMs from one of the field's leading voices."
+      },
+      {
+        "title": "GitHub Copilot vs Cursor — Best AI Coding Assistant in 2025?",
+        "url": "https://www.youtube.com/watch?v=KG-o4DuabkQ",
+        "why": "Hands-on comparison of the two dominant AI coding tools — decide which one fits your workflow."
       }
     ],
     "courses": [
@@ -214,6 +276,20 @@
       "Spend one day building something with a new AI tool or API you haven't used before",
       "Read the latest AI index from Stanford (free, focus on the labour market section)",
       "Identify the one skill in your stack most at risk and spend one hour on a relevant Coursera module"
+    ],
+    "community": [
+      {
+        "name": "School of AI",
+        "platform": "Skool",
+        "url": "https://www.skool.com/school-of-ai",
+        "description": "AI and software development community — active threads on tools, careers, and upskilling"
+      },
+      {
+        "name": "The AI Advantage",
+        "platform": "Skool",
+        "url": "https://www.skool.com/the-ai-advantage",
+        "description": "Practical AI implementation for technical professionals — daily activity"
+      }
     ]
   },
   "Education": {
@@ -228,6 +304,11 @@
         "title": "Dr Philippa Hardman — Future of Learning",
         "url": "https://www.youtube.com/@PhilippaHardman",
         "why": "Research-based insights on how AI is actually changing teaching and learning."
+      },
+      {
+        "title": "Google for Education 2025: 150+ AI Updates Transforming the Classroom",
+        "url": "https://www.youtube.com/watch?v=XG32Bsd7HVk",
+        "why": "Comprehensive overview of every AI update Google shipped for classrooms in 2025 (Dec 2025)."
       }
     ],
     "courses": [
@@ -268,6 +349,20 @@
       "Try using ChatGPT or Claude to differentiate one lesson plan — compare the result to your own",
       "Explore CORE Education's free AI in education resources for NZ teachers",
       "Identify one admin or marking task you could use AI to speed up this week"
+    ],
+    "community": [
+      {
+        "name": "School of AI",
+        "platform": "Skool",
+        "url": "https://www.skool.com/school-of-ai",
+        "description": "Educators using AI for content, lesson planning, and professional development"
+      },
+      {
+        "name": "Hivebrite (Education Institutions)",
+        "platform": "Hivebrite",
+        "url": "https://hivebrite.com",
+        "description": "Platform used by NZ universities and polytechs for alumni and professional communities — check your institution"
+      }
     ]
   }
 }
