@@ -1030,7 +1030,10 @@
         "marketing executive",
         "marketing coordinator",
         "growth marketer",
-        "performance marketer"
+        "performance marketer",
+        "email marketing specialist",
+        "crm specialist",
+        "marketing automation specialist"
       ],
       "onet_title": "Market Research Analysts and Marketing Specialists",
       "onet_code": "13-1161.00",
@@ -1056,7 +1059,8 @@
         "digital marketing specialist",
         "digital marketing manager",
         "online marketer",
-        "performance marketing manager"
+        "performance marketing manager",
+        "content marketing manager"
       ],
       "onet_title": "Marketing Managers",
       "onet_code": "11-2021.00",
@@ -1091,7 +1095,9 @@
         "SEO manager",
         "SEO analyst",
         "search engine optimisation specialist",
-        "organic search specialist"
+        "organic search specialist",
+        "technical seo specialist",
+        "search engine optimization specialist"
       ],
       "onet_title": "Market Research Analysts and Marketing Specialists",
       "onet_code": "13-1161.00",
@@ -1106,7 +1112,9 @@
         "SEM specialist",
         "media buyer",
         "programmatic buyer",
-        "biddable media"
+        "biddable media",
+        "sem manager",
+        "ppc manager"
       ],
       "onet_title": "Advertising and Promotions Managers",
       "onet_code": "11-2011.00",
