@@ -1,0 +1,273 @@
+{
+  "_note": "Curated upskill resource packs for 5 NZ industries. Replace placeholder content with real, verified resources before launch. Structure must match UpskillPack type in UpskillSection.tsx.",
+  "Finance & Accounting": {
+    "headline": "Finance is one of AI's fastest-moving frontiers — but human judgment, client relationships, and regulatory knowledge remain firmly yours.",
+    "youtube": [
+      {
+        "title": "Accounting Stuff",
+        "url": "https://www.youtube.com/@AccountingStuff",
+        "why": "Clear, practical breakdowns of accounting concepts and how AI tools are changing the profession."
+      },
+      {
+        "title": "CFI Education",
+        "url": "https://www.youtube.com/@CFIeducation",
+        "why": "Financial modelling, valuation, and FP&A skills — the high-value work AI can't replace."
+      }
+    ],
+    "courses": [
+      {
+        "title": "Financial Analysis and Reporting",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/learn/financial-analysis",
+        "cost": "Free to audit",
+        "time": "4 weeks",
+        "why": "Builds the analytical skills that sit above what AI can automate."
+      },
+      {
+        "title": "Excel and AI for Finance Professionals",
+        "platform": "LinkedIn Learning",
+        "url": "https://www.linkedin.com/learning/search?keywords=finance+AI+excel",
+        "cost": "LinkedIn subscription",
+        "time": "3–5 hours",
+        "why": "Practical AI tool use for finance workflows — the upskill employers expect."
+      }
+    ],
+    "nz_specific": [
+      {
+        "title": "CA ANZ Learning & Events",
+        "platform": "Chartered Accountants ANZ",
+        "url": "https://www.charteredaccountantsanz.com/learning-and-events",
+        "cost": "Member rates",
+        "why": "NZ-specific CPD and AI in finance content from the NZ professional body."
+      },
+      {
+        "title": "Careers NZ — Finance Pathways",
+        "platform": "Careers NZ",
+        "url": "https://www.careers.govt.nz/jobs-database/business-and-administration/finance/",
+        "cost": "Free",
+        "why": "NZ salary data and career pathways for finance roles."
+      }
+    ],
+    "quick_wins": [
+      "Set up a free ChatGPT or Claude account and practice summarising financial reports",
+      "Spend 30 minutes on the CA ANZ AI in Finance learning page",
+      "Identify one repetitive task in your week that could be partially automated — and research a tool for it"
+    ]
+  },
+  "Healthcare": {
+    "headline": "AI is entering healthcare fast — but the clinical judgment, empathy, and hands-on care that define the best practitioners are exactly what patients still need humans for.",
+    "youtube": [
+      {
+        "title": "Medmastery",
+        "url": "https://www.youtube.com/@medmastery",
+        "why": "Clinical education content relevant to keeping skills sharp as AI handles more documentation."
+      },
+      {
+        "title": "AI in Medicine — NEJM",
+        "url": "https://www.youtube.com/@NEJMvideo",
+        "why": "Real clinical AI case studies from the New England Journal of Medicine."
+      }
+    ],
+    "courses": [
+      {
+        "title": "AI in Healthcare",
+        "platform": "Coursera (Stanford)",
+        "url": "https://www.coursera.org/learn/ai-in-healthcare",
+        "cost": "Free to audit",
+        "time": "6 weeks",
+        "why": "Understand what AI can and can't do in clinical settings — essential for NZ health workers."
+      },
+      {
+        "title": "Health Informatics for Better and Safer Healthcare",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/learn/health-informatics",
+        "cost": "Free to audit",
+        "time": "4 weeks",
+        "why": "Digital health literacy — increasingly expected in NZ clinical roles."
+      }
+    ],
+    "nz_specific": [
+      {
+        "title": "Health Workforce NZ — Development Programmes",
+        "platform": "Te Whatu Ora",
+        "url": "https://www.tewhatuora.govt.nz/for-the-health-sector/workforce/",
+        "cost": "Free",
+        "why": "NZ government workforce development and training pathways for health workers."
+      },
+      {
+        "title": "Careers NZ — Healthcare",
+        "platform": "Careers NZ",
+        "url": "https://www.careers.govt.nz/jobs-database/health-and-community/",
+        "cost": "Free",
+        "why": "NZ healthcare career pathways and training requirements."
+      }
+    ],
+    "quick_wins": [
+      "Read Te Whatu Ora's latest digital health strategy (free, 20 minutes)",
+      "Identify one documentation task that AI tools could speed up for you",
+      "Explore one digital health tool your workplace hasn't yet adopted"
+    ]
+  },
+  "Marketing & Advertising": {
+    "headline": "AI has already changed marketing faster than almost any other industry — but strategy, brand voice, and the ability to direct AI tools intelligently are your strongest cards.",
+    "youtube": [
+      {
+        "title": "Neil Patel",
+        "url": "https://www.youtube.com/@neilpatel",
+        "why": "Practical digital marketing strategy, SEO, and AI tool use for marketers."
+      },
+      {
+        "title": "Marketing Against the Grain (HubSpot)",
+        "url": "https://www.youtube.com/@HubSpot",
+        "why": "How top marketers are using AI to scale output without losing brand quality."
+      }
+    ],
+    "courses": [
+      {
+        "title": "AI for Marketing",
+        "platform": "LinkedIn Learning",
+        "url": "https://www.linkedin.com/learning/search?keywords=AI+marketing",
+        "cost": "LinkedIn subscription",
+        "time": "3–6 hours",
+        "why": "Practical AI tools for marketing workflows — the skills NZ employers now expect."
+      },
+      {
+        "title": "Digital Marketing Specialization",
+        "platform": "Coursera (University of Illinois)",
+        "url": "https://www.coursera.org/specializations/digital-marketing",
+        "cost": "Free to audit",
+        "time": "8 weeks",
+        "why": "Strategic grounding that differentiates you from AI-only execution."
+      }
+    ],
+    "nz_specific": [
+      {
+        "title": "Marketing Association NZ — Training",
+        "platform": "Marketing Association",
+        "url": "https://www.marketing.org.nz/learning/",
+        "cost": "Member and non-member rates",
+        "why": "NZ-specific marketing training and AI in marketing content from the industry body."
+      },
+      {
+        "title": "Careers NZ — Marketing",
+        "platform": "Careers NZ",
+        "url": "https://www.careers.govt.nz/jobs-database/business-and-administration/marketing-and-market-research/",
+        "cost": "Free",
+        "why": "NZ salary benchmarks and pathway options for marketing careers."
+      }
+    ],
+    "quick_wins": [
+      "Set up a free Claude or ChatGPT account and write three different ad variations for a real campaign",
+      "Spend 1 hour exploring one AI marketing tool (Jasper, Copy.ai, or Canva AI)",
+      "Identify which part of your current role takes the most time — find one AI tool that could speed it up"
+    ]
+  },
+  "Technology": {
+    "headline": "Irony of ironies — the technology sector is among the most AI-exposed. But the workers who understand AI deeply, and can direct it, are in the highest demand NZ has ever seen for tech skills.",
+    "youtube": [
+      {
+        "title": "Fireship",
+        "url": "https://www.youtube.com/@Fireship",
+        "why": "Fast, practical breakdowns of AI tools, coding trends, and what tech workers actually need to know."
+      },
+      {
+        "title": "Andrej Karpathy",
+        "url": "https://www.youtube.com/@AndrejKarpathy",
+        "why": "Deep technical understanding of AI/LLMs from one of the field's leading voices."
+      }
+    ],
+    "courses": [
+      {
+        "title": "Machine Learning Specialization",
+        "platform": "Coursera (Andrew Ng, DeepLearning.AI)",
+        "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "cost": "Free to audit",
+        "time": "3 months",
+        "why": "The definitive foundation course — understanding AI at the level that makes you direct it, not fear it."
+      },
+      {
+        "title": "GitHub Copilot for Developers",
+        "platform": "LinkedIn Learning",
+        "url": "https://www.linkedin.com/learning/search?keywords=github+copilot",
+        "cost": "LinkedIn subscription",
+        "time": "2–4 hours",
+        "why": "The AI tool most likely to change your daily workflow as a developer."
+      }
+    ],
+    "nz_specific": [
+      {
+        "title": "NZTech — Training and Development",
+        "platform": "NZTech",
+        "url": "https://nztech.org.nz/",
+        "cost": "Member rates",
+        "why": "NZ tech industry body with workforce development resources and AI working groups."
+      },
+      {
+        "title": "Careers NZ — Technology",
+        "platform": "Careers NZ",
+        "url": "https://www.careers.govt.nz/jobs-database/it-and-telecommunications/",
+        "cost": "Free",
+        "why": "NZ tech career pathways, salary benchmarks, and in-demand skills."
+      }
+    ],
+    "quick_wins": [
+      "Spend one day building something with a new AI tool or API you haven't used before",
+      "Read the latest AI index from Stanford (free, focus on the labour market section)",
+      "Identify the one skill in your stack most at risk and spend one hour on a relevant Coursera module"
+    ]
+  },
+  "Education": {
+    "headline": "AI can generate content and answer questions — but it can't build the relationships, read a classroom, or adapt to a student the way a skilled teacher can.",
+    "youtube": [
+      {
+        "title": "Sal Khan — Khanmigo and AI in Education",
+        "url": "https://www.youtube.com/@khanacademy",
+        "why": "The leading voice on AI in education — practical and thoughtful, not fearful."
+      },
+      {
+        "title": "Dr Philippa Hardman — Future of Learning",
+        "url": "https://www.youtube.com/@PhilippaHardman",
+        "why": "Research-based insights on how AI is actually changing teaching and learning."
+      }
+    ],
+    "courses": [
+      {
+        "title": "AI for Education (free short course)",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/learn/how-to-use-chatgpt-in-education",
+        "cost": "Free",
+        "time": "4 hours",
+        "why": "Practical ways to use AI as a teaching tool, not a threat."
+      },
+      {
+        "title": "Teaching with AI",
+        "platform": "LinkedIn Learning",
+        "url": "https://www.linkedin.com/learning/search?keywords=teaching+with+AI",
+        "cost": "LinkedIn subscription",
+        "time": "2–4 hours",
+        "why": "Classroom-specific AI integration skills — what NZ schools are starting to ask for."
+      }
+    ],
+    "nz_specific": [
+      {
+        "title": "CORE Education — Digital Fluency",
+        "platform": "CORE Education",
+        "url": "https://www.core-ed.org/",
+        "cost": "Free and paid options",
+        "why": "NZ's leading education digital fluency provider — AI in education content specific to the NZ curriculum."
+      },
+      {
+        "title": "Careers NZ — Education",
+        "platform": "Careers NZ",
+        "url": "https://www.careers.govt.nz/jobs-database/education-and-training/",
+        "cost": "Free",
+        "why": "NZ teaching career pathways, registration requirements, and professional development."
+      }
+    ],
+    "quick_wins": [
+      "Try using ChatGPT or Claude to differentiate one lesson plan — compare the result to your own",
+      "Explore CORE Education's free AI in education resources for NZ teachers",
+      "Identify one admin or marking task you could use AI to speed up this week"
+    ]
+  }
+}
