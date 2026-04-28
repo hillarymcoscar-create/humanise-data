@@ -9,14 +9,9 @@
         "why": "Clear, practical breakdowns of accounting concepts and how AI tools are changing the profession."
       },
       {
-        "title": "CFI Education",
-        "url": "https://www.youtube.com/@CFIeducation",
-        "why": "Financial modelling, valuation, and FP&A skills — the high-value work AI can't replace."
-      },
-      {
-        "title": "How I Got Xero to Reconcile Itself with AI (Saved Hours of Bookkeeping)",
-        "url": "https://www.youtube.com/watch?v=9uDMzcDUPts",
-        "why": "Real workflow demo — an AI agent logging into Xero and auto-reconciling accounts (Aug 2025)."
+        "title": "The Financial Controller",
+        "url": "https://www.youtube.com/@thefinancialcontroller",
+        "why": "Financial modelling, FP&A, and the high-value controllership skills AI can't replace."
       }
     ],
     "courses": [
@@ -77,19 +72,14 @@
     "headline": "AI is entering healthcare fast — but the clinical judgment, empathy, and hands-on care that define the best practitioners are exactly what patients still need humans for.",
     "youtube": [
       {
-        "title": "Medmastery",
-        "url": "https://www.youtube.com/@medmastery",
-        "why": "Clinical education content relevant to keeping skills sharp as AI handles more documentation."
+        "title": "Medscape",
+        "url": "https://www.youtube.com/@medscape",
+        "why": "Clinical news, expert perspectives, and how AI is reshaping healthcare practice."
       },
       {
-        "title": "AI in Medicine — NEJM",
-        "url": "https://www.youtube.com/@NEJMvideo",
-        "why": "Real clinical AI case studies from the New England Journal of Medicine."
-      },
-      {
-        "title": "AI in Healthcare 2025: Breakthroughs for Your Practice",
-        "url": "https://www.youtube.com/watch?v=LyKZWGk-0cU",
-        "why": "Covers diagnostic AI, clinical note automation, and what it means for frontline clinicians (Dec 2025)."
+        "title": "Healthy Matters",
+        "url": "https://www.youtube.com/@HealthyMatters",
+        "why": "Accessible health education content — useful for patient communication skills as AI takes over documentation."
       }
     ],
     "courses": [
@@ -155,14 +145,9 @@
         "why": "Practical digital marketing strategy, SEO, and AI tool use for marketers."
       },
       {
-        "title": "Marketing Against the Grain (HubSpot)",
+        "title": "HubSpot Marketing",
         "url": "https://www.youtube.com/@HubSpot",
         "why": "How top marketers are using AI to scale output without losing brand quality."
-      },
-      {
-        "title": "Google Marketing Live 2025 Highlights — New AI Tools and Ads Updates",
-        "url": "https://www.youtube.com/watch?v=e9BF4Tdat-E",
-        "why": "All the AI marketing tools announced at Google Marketing Live 2025 — essential for any digital marketer."
       }
     ],
     "courses": [
@@ -228,14 +213,9 @@
         "why": "Fast, practical breakdowns of AI tools, coding trends, and what tech workers actually need to know."
       },
       {
-        "title": "Andrej Karpathy",
-        "url": "https://www.youtube.com/@AndrejKarpathy",
-        "why": "Deep technical understanding of AI/LLMs from one of the field's leading voices."
-      },
-      {
-        "title": "GitHub Copilot vs Cursor — Best AI Coding Assistant in 2025?",
-        "url": "https://www.youtube.com/watch?v=KG-o4DuabkQ",
-        "why": "Hands-on comparison of the two dominant AI coding tools — decide which one fits your workflow."
+        "title": "TechWorld with Nana",
+        "url": "https://www.youtube.com/@TechWorldwithNana",
+        "why": "DevOps, Kubernetes, and cloud-native skills — the infrastructure knowledge that stays in demand."
       }
     ],
     "courses": [
@@ -296,19 +276,14 @@
     "headline": "AI can generate content and answer questions — but it can't build the relationships, read a classroom, or adapt to a student the way a skilled teacher can.",
     "youtube": [
       {
-        "title": "Sal Khan — Khanmigo and AI in Education",
-        "url": "https://www.youtube.com/@khanacademy",
-        "why": "The leading voice on AI in education — practical and thoughtful, not fearful."
+        "title": "Cult of Pedagogy",
+        "url": "https://www.youtube.com/@cultofpedagogy",
+        "why": "Practical teaching strategies and honest takes on how AI is changing what happens in the classroom."
       },
       {
-        "title": "Dr Philippa Hardman — Future of Learning",
-        "url": "https://www.youtube.com/@PhilippaHardman",
-        "why": "Research-based insights on how AI is actually changing teaching and learning."
-      },
-      {
-        "title": "Google for Education 2025: 150+ AI Updates Transforming the Classroom",
-        "url": "https://www.youtube.com/watch?v=XG32Bsd7HVk",
-        "why": "Comprehensive overview of every AI update Google shipped for classrooms in 2025 (Dec 2025)."
+        "title": "Edutopia",
+        "url": "https://www.youtube.com/@edutopia",
+        "why": "Evidence-based classroom ideas and real teacher stories — what works as AI changes the job."
       }
     ],
     "courses": [
