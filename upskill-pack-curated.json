@@ -66,7 +66,12 @@
         "url": "https://www.skool.com/the-ai-advantage",
         "description": "Practical AI workflows for professionals — active daily discussions"
       }
-    ]
+    ],
+    "skillshare": {
+      "title": "Skillshare – Finance & Accounting",
+      "url": "https://www.skillshare.com/en/browse/finance",
+      "why": "Browse practical finance and accounting classes with a free trial."
+    }
   },
   "Healthcare": {
     "headline": "AI is entering healthcare fast — but the clinical judgment, empathy, and hands-on care that define the best practitioners are exactly what patients still need humans for.",
@@ -134,7 +139,12 @@
         "url": "https://hivebrite.com",
         "description": "Platform used by NZ and Australian medical associations for professional development communities — check your specific body"
       }
-    ]
+    ],
+    "skillshare": {
+      "title": "Skillshare – Health & Wellness",
+      "url": "https://www.skillshare.com/en/browse/health-wellness",
+      "why": "Browse health and wellness classes with a free trial."
+    }
   },
   "Marketing & Advertising": {
     "headline": "AI has already changed marketing faster than almost any other industry — but strategy, brand voice, and the ability to direct AI tools intelligently are your strongest cards.",
@@ -202,7 +212,12 @@
         "url": "https://kajabi.com/community",
         "description": "Several NZ and Australian marketing professionals host paid communities here — search by your specialty"
       }
-    ]
+    ],
+    "skillshare": {
+      "title": "Skillshare – Marketing",
+      "url": "https://www.skillshare.com/en/browse/marketing",
+      "why": "Browse practical marketing classes with a free trial."
+    }
   },
   "Technology": {
     "headline": "Irony of ironies — the technology sector is among the most AI-exposed. But the workers who understand AI deeply, and can direct it, are in the highest demand NZ has ever seen for tech skills.",
@@ -270,7 +285,12 @@
         "url": "https://www.skool.com/the-ai-advantage",
         "description": "Practical AI implementation for technical professionals — daily activity"
       }
-    ]
+    ],
+    "skillshare": {
+      "title": "Skillshare – Technology",
+      "url": "https://www.skillshare.com/en/browse/technology",
+      "why": "Browse tech and coding classes with a free trial."
+    }
   },
   "Education": {
     "headline": "AI can generate content and answer questions — but it can't build the relationships, read a classroom, or adapt to a student the way a skilled teacher can.",
@@ -338,6 +358,11 @@
         "url": "https://hivebrite.com",
         "description": "Platform used by NZ universities and polytechs for alumni and professional communities — check your institution"
       }
-    ]
+    ],
+    "skillshare": {
+      "title": "Skillshare – Education",
+      "url": "https://www.skillshare.com/en/browse/education",
+      "why": "Browse teaching and education classes with a free trial."
+    }
   }
 }
