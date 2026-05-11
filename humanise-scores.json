@@ -5366,7 +5366,14 @@
       "Coordinate sales or other promotional strategies",
       "Collaborate with other marketing staff",
       "Assist in the development of online"
-    ]
+    ],
+    "job_market_signals": {
+      "ai_skill_demand": "high",
+      "ai_mention_rate": "7.3% of NZ Marketing & Communications job ads",
+      "ai_yoy_growth": "+143.5% AI mentions across all sectors since March 2025",
+      "source": "SEEK AI Gauge Feb 2026 / SEEK NZ Employment Report March 2026",
+      "display_message": "7.3% of NZ marketing job ads now require AI skills — the fastest-growing skill requirement in the sector"
+    }
   },
   {
     "onet_code": "17-2141.02",
@@ -17702,12 +17709,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -17725,12 +17728,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "25-9099.00",
@@ -17743,12 +17742,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -17766,12 +17761,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-3013.00",
@@ -17784,12 +17775,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "27-1019.00",
@@ -17802,12 +17789,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "27-1029.00",
@@ -17820,12 +17803,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-3012.00",
@@ -17838,12 +17817,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-3099.00",
@@ -17856,12 +17831,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1015.00",
@@ -17874,12 +17845,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1014.00",
@@ -17892,12 +17859,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1013.00",
@@ -17910,12 +17873,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "43-4199.00",
@@ -17928,12 +17887,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1012.00",
@@ -17946,12 +17901,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1011.00",
@@ -17964,12 +17915,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-2012.00",
@@ -17982,12 +17929,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "43-6013.00",
@@ -18022,12 +17965,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+22.5%",
@@ -18096,12 +18035,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "11-9179.00",
@@ -18114,12 +18049,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "11-9199.00",
@@ -18132,12 +18063,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "13-1199.00",
@@ -18150,12 +18077,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "53-6099.00",
@@ -18168,12 +18091,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+22.5%",
@@ -18192,12 +18111,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "43-3099.00",
@@ -18210,12 +18125,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-1019.00",
@@ -18228,12 +18139,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-2011.00",
@@ -18246,12 +18153,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "13-2081.00",
@@ -18314,12 +18217,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "15-1299.00",
@@ -18332,12 +18231,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+10.1%",
@@ -18359,12 +18254,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "15-2099.00",
@@ -18377,12 +18268,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+10.1%",
@@ -18404,12 +18291,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+22.5%",
@@ -18428,12 +18311,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "17-2199.00",
@@ -18446,12 +18325,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "53-4011.00",
@@ -18492,12 +18367,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "53-3099.00",
@@ -18510,12 +18381,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+22.5%",
@@ -18534,12 +18401,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "41-3041.00",
@@ -18574,12 +18437,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-3019.00",
@@ -18592,12 +18451,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+36.0%",
@@ -18638,12 +18493,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-4021.00",
@@ -18684,12 +18535,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "53-2022.00",
@@ -18730,12 +18577,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "39-3093.00",
@@ -18798,12 +18641,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-4099.00",
@@ -18816,12 +18655,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+36.0%",
@@ -18840,12 +18675,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "53-1049.00",
@@ -18858,12 +18689,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+22.5%",
@@ -18938,12 +18765,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "19-2099.00",
@@ -18956,12 +18779,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "19-3039.00",
@@ -18974,12 +18793,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-5041.00",
@@ -19020,12 +18835,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-9199.00",
@@ -19038,12 +18849,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-5049.00",
@@ -19056,12 +18863,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+36.0%",
@@ -19102,12 +18905,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "37-2019.00",
@@ -19120,12 +18919,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "47-5099.00",
@@ -19138,12 +18933,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "strongly_growing",
       "nz_yoy_change": "+36.0%",
@@ -19162,12 +18953,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "49-2011.00",
@@ -19208,12 +18995,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "35-9021.00",
@@ -19292,12 +19075,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "19-4044.00",
@@ -19332,12 +19111,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-9061.00",
@@ -19372,12 +19147,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "35-2015.00",
@@ -19412,12 +19183,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "35-2011.00",
@@ -19452,12 +19219,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "21-1019.00",
@@ -19470,12 +19233,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+15.7%",
@@ -19494,12 +19253,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+15.7%",
@@ -19562,12 +19317,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "31-9099.00",
@@ -19580,12 +19331,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+15.7%",
@@ -19604,12 +19351,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "21-1099.00",
@@ -19622,12 +19365,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+15.7%",
@@ -19646,12 +19385,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -19702,12 +19437,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -19758,12 +19489,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+15.7%",
@@ -19782,12 +19509,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "29-2043.00",
@@ -19888,12 +19611,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "salary_signal": "fastest_growing",
       "nz_salary_growth": "+6.7% YoY — highest of any tracked sector",
@@ -19912,12 +19631,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-6099.00",
@@ -19930,12 +19645,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "25-1069.00",
@@ -19948,12 +19659,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -19971,12 +19678,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -19994,12 +19697,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -20017,12 +19716,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -20043,12 +19738,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -20069,12 +19760,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+22.5%",
@@ -20093,12 +19780,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -20169,12 +19852,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -20225,12 +19904,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+13.1%",
@@ -20251,12 +19926,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-3015.00",
@@ -20269,12 +19940,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "27-4099.00",
@@ -20287,12 +19954,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "49-9099.00",
@@ -20305,12 +19968,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "growing",
       "nz_yoy_change": "+22.5%",
@@ -20329,12 +19988,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ],
+    "tasks_at_risk": [],
+    "protective_tasks": [],
     "job_market_signals": {
       "nz_market": "stable",
       "source": "SEEK NZ Employment Report March 2026",
@@ -20374,12 +20029,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-3014.00",
@@ -20392,12 +20043,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-2013.00",
@@ -20410,12 +20057,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-4199.00",
@@ -20428,12 +20071,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "55-3011.00",
@@ -20446,12 +20085,8 @@
       "social": 50,
       "complexity": 50
     },
-    "tasks_at_risk": [
-
-    ],
-    "protective_tasks": [
-
-    ]
+    "tasks_at_risk": [],
+    "protective_tasks": []
   },
   {
     "onet_code": "51-2051.00",
