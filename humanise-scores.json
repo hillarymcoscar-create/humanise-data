@@ -2063,8 +2063,9 @@
   {
     "onet_code": "27-3031.00",
     "title": "Public Relations Specialists",
-    "risk_score": 29,
-    "risk_band": "Low",
+    "risk_score": 58,
+    "risk_band": "High",
+    "score_adjustment_note": "Risk score adjusted upward from RBNZ baseline (29 → 58) to reflect 2026 AI capability for content and social media work. PR Specialist tasks (posting, captioning, content drafting, engagement) are significantly more automatable than the underlying O*NET task taxonomy captures.",
     "key_factors": {
       "creative": 86,
       "hands_on": 16,
